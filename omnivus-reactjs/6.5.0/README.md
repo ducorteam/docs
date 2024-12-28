@@ -1,13 +1,12 @@
 
 
-# Omnivus - reactjs template
+# Getting Started
 
-Omnivus is a cutting-edge React application designed for IT solutions, digital services, and business agencies. This project is fully responsive, feature-packed, and customizable for any modern IT-related business.
+__Omnivus__ is a cutting-edge React application designed for __IT solutions, digital services, and business agencies__. This project is fully responsive, feature-packed, and customizable for any modern IT-related business.
 
 ### Requirements
 
-There are system requirements in order to install and setup this template and its components properly. Make sure that you are running the node.js & yarn install. 
-
+There are system requirements in order to install and setup this template and its components properly. Make sure that you are running the __node.js__ & __yarn install__. 
 
 ### 🚀 Quick Start Guide
 
@@ -48,12 +47,4 @@ yarn build
 yarn clean
 ```
 
-### 📜 Scripts Overview
 
-| **Command**    | **Script**         | **Description**                                                           |
-| -------------- | ------------------ | ------------------------------------------------------------------------- |
-| `yarn install` | Install Packages   | Installs all the required dependencies listed in `package.json`.          |
-| `yarn dev`     | Start Development  | Launches the development server with hot-reloading for real-time updates. |
-| `yarn build`   | Build Project      | Creates an optimized production build in the `dist` folder.               |
-| `yarn preview` | Preview Build      | Serves the production build locally for testing purposes.                 |
-| `yarn clean`   | Clean Node Modules | Removes all installed `node_modules` to start fresh.                      |
