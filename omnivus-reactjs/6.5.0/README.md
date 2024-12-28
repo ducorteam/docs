@@ -1,10 +1,8 @@
-# Omnivus - IT Solutions & Digital Services
+# Omnivus - IT Solutions & Digital Services reactjs template
 
 Omnivus is a cutting-edge React application designed for IT solutions, digital services, and business agencies. This project is fully responsive, feature-packed, and customizable for any modern IT-related business.
 
----
-
-## 🛠 Features
+### 🛠 Features
 
 - **Responsive Design**: Optimized for all devices and screen sizes.
 - **Modern Animations**: Stunning visual effects powered by `animate.css` and `react-animations`.
@@ -16,51 +14,46 @@ Omnivus is a cutting-edge React application designed for IT solutions, digital s
 - **Custom Styles**: Flexibility with `styled-components` and SASS.
 - **FontAwesome Integration**: Thousands of icons available for use.
 
----
+### 🚀 Quick Start Guide
 
-## 🚀 Quick Start Guide
-
-### Step 1: Set Up the Project
+#### Step 1: Set Up the Project
 
 Run the following commands in your terminal to get started:
 
-### Clone the repository
-```bash
-git clone https://gitlab.com/jubayed/omnivus-themeforest-react.git
-```
+### Download the repository
 
 ### Navigate into the project directory
 
 ```bash
-cd omnivus-themeforest-react
+cd main/omnivus-reactjs
+
 ```
 
 ### Install dependencies
+
 ```bash
 yarn install
 ```
 
-### Start the development server
+#### Start the development server
+
 ```bash
 yarn dev
 ```
 
-### Build the project for production
+#### Build the project for production
+
 ```bash
 yarn build
 ```
 
-### Preview the production build
-```bash
-yarn preview
-```
+#### Remove node_modules
 
-### Remove node_modules
 ```bash
 yarn clean
 ```
 
-## 📜 Scripts Overview
+### 📜 Scripts Overview
 
 | **Command**    | **Script**         | **Description**                                                           |
 | -------------- | ------------------ | ------------------------------------------------------------------------- |
