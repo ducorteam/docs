@@ -1,18 +1,18 @@
-# Omnivus - IT Solutions & Digital Services reactjs template
+
+
+# Omnivus - reactjs template
 
 Omnivus is a cutting-edge React application designed for IT solutions, digital services, and business agencies. This project is fully responsive, feature-packed, and customizable for any modern IT-related business.
 
-### 🛠 Features
+### Requirements
 
-- **Responsive Design**: Optimized for all devices and screen sizes.
-- **Modern Animations**: Stunning visual effects powered by `animate.css` and `react-animations`.
-- **SEO-Ready**: Metadata management using `react-helmet-async`.
-- **Background Videos**: Dynamic video integration with `react-background-video-player`.
-- **Interactive Maps**: Google Maps support using `google-map-react`.
-- **Beautiful Sliders**: Create carousels with `react-slick`.
-- **Notifications**: Real-time alerts with `react-toastify`.
-- **Custom Styles**: Flexibility with `styled-components` and SASS.
-- **FontAwesome Integration**: Thousands of icons available for use.
+There are system requirements in order to install and setup this template and its components properly. Make sure that you are running the node.js & yarn install. 
+
+### Recommended node and npm
+```bash
+node install for your pc
+yarn install
+```
 
 ### 🚀 Quick Start Guide
 
