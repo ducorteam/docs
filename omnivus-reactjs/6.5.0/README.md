@@ -8,11 +8,6 @@ Omnivus is a cutting-edge React application designed for IT solutions, digital s
 
 There are system requirements in order to install and setup this template and its components properly. Make sure that you are running the node.js & yarn install. 
 
-### Recommended node and npm
-```bash
-node install for your pc
-yarn install
-```
 
 ### 🚀 Quick Start Guide
 
