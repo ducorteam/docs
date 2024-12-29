@@ -50,7 +50,27 @@ After purchasing __Omnivus__ template on themeforest.net with your envato accoun
 ### ⚛️ React Installation  
 Please follow the instructions to see how you can install React on your hosting: 
 
+ For Localhost Setup -
+> **Note:** 
+> 
+> - Open your command prompt.
+>   - `yarn install`
+>   - `yarn dev`
 
+### Change Site Title
+
+To change your Site title and Favicon open the Omnivus in your editor and go to the location by following screenshot which are given bellow.
+
+![image](https://github.com/user-attachments/assets/90a723ed-7874-4066-8996-5ff71984c4ed)
+
+### Change Favicon
+
+To change your Site Favicon by following screenshot
+> **Note:**  
+> 📂 Inside the `public` folder, you will find the following types of files:
+> - 🖼️ **File:** `favicon.ico`
+
+![image](https://github.com/user-attachments/assets/54f88011-bc1f-4928-91f5-d09088652dd6)
 
 
 
