@@ -38,7 +38,7 @@ After purchasing __Omnivus__ template on themeforest.net with your envato accoun
 ![image](https://github.com/user-attachments/assets/23901340-a01e-4c9a-8401-ff904e4e5531)
 
 
-### You can get the following items after purchasing our template from themeforest
+#### You can get the following items after purchasing our template from themeforest
 ---
 
 | 📦 **Omnivus**          | **An Installable React template zip file.** This file you need to upload.    |
