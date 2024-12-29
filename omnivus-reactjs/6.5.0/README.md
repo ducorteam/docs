@@ -51,7 +51,7 @@ After purchasing __Omnivus__ template on themeforest.net with your envato accoun
 Please follow the instructions to see how you can install React on your hosting: 
 
  For Localhost Setup -
-> **Note:** 
+> [!NOTE]
 > 
 > - Open your command prompt.
 >   - `yarn install`
