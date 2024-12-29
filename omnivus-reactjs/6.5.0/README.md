@@ -1,6 +1,6 @@
 
 
-# 🌟 Omnivus  
+# Omnivus  
 
 Omnivus is a cutting-edge React application designed for **IT solutions, digital services, and business agencies**. This project is fully responsive, feature-packed, and customizable for any modern IT-related business.  
 
@@ -56,6 +56,8 @@ Please follow the instructions to see how you can install React on your hosting:
 > - Open your command prompt.
 >   - `yarn install`
 >   - `yarn dev`
+
+
 
 ### Change Site Title
 
