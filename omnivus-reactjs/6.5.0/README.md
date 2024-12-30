@@ -120,6 +120,14 @@ To change your Site Favicon by following screenshot
 ![image](./banner-img-2.png)
 
 
+#### Services
+
+> [!NOTE]  
+> `Index.jsx` is placed in the `src\componets\whatWeDoPart` directory
+
+![image](./service-2.png)
+
+
 
 
 #### Build the project for production
