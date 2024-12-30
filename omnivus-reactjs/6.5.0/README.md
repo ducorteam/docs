@@ -95,4 +95,6 @@ yarn build
 yarn clean
 ```
 
+###### Support ? _EMAIL_
 
+If you like our product. [Please Rate Us](https://themeforest.net/user/ducor)
