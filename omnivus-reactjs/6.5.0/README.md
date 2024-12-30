@@ -128,6 +128,14 @@ To change your Site Favicon by following screenshot
 ![image](./service-2.png)
 
 
+#### FAQ
+
+> [!NOTE]  
+> `Index.jsx` is placed in the `src\componets\answersPart\` directory
+
+![image](./faq-home-2.png)
+
+
 
 
 #### Build the project for production
