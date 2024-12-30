@@ -115,7 +115,7 @@ To change your Site Favicon by following screenshot
 #### How to change banner image
 
 > [!NOTE]  
-> `_banner.scss` is placed in the `src\componets\banner` directory
+> `Index2.jsx` is placed in the `src\componets\banner` directory
 
 ![image](./banner-img-2.png)
 
