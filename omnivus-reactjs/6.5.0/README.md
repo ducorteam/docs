@@ -75,6 +75,7 @@ To change your Site Favicon by following screenshot
 ![image](./icon.png)
 
 
+### How to change banner image
 
 
 
