@@ -34,7 +34,7 @@ yarn dev
 After purchasing __Omnivus__ template on themeforest.net with your envato account, go to your download page. You can choose to download __Omnivus__ template only (Installable React template) or the entire __Omnivus__ template.After extract the package you will find following this files: 
 
 ![image](./main.png)
-# test
+
 
 ![image](./fils.png)
 
