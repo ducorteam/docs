@@ -91,6 +91,14 @@ To change your Site Favicon by following screenshot
 ![image](./service.png)
 
 
+### Team Member
+
+> [!NOTE]  
+> `Index.jsx` is placed in the `src\componets\teamMemberPart\` directory
+
+![image](./team-member.png)
+
+
 
 
 
