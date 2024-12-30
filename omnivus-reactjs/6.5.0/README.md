@@ -99,6 +99,14 @@ To change your Site Favicon by following screenshot
 ![image](./team-member.png)
 
 
+### latest news
+
+> [!NOTE]  
+> `Index.jsx` is placed in the `src\componets\latestNewsPart` directory
+
+![image](./news-blog.png)
+
+
 
 
 
