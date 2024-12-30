@@ -158,7 +158,7 @@ To change your Site Favicon by following screenshot
 > [!NOTE]  
 > `ServicesPlansPart.jsx` is placed in the `src\componets\servicesPart\` directory
 
-![image](./service-plans.png)
+![image](./service-plan.png)
 
 
 #### Build the project for production
