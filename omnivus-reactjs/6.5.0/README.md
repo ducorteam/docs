@@ -161,6 +161,13 @@ To change your Site Favicon by following screenshot
 ![image](./service-plan.png)
 
 
+### Case Study Page
+
+> [!NOTE]  
+> `index.jsx` is placed in the `src\pages\case-study\` directory
+
+![image](./case-stydy.png)
+
 #### Build the project for production
 
 ```bash
