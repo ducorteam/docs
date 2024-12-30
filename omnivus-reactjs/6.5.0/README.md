@@ -143,7 +143,7 @@ To change your Site Favicon by following screenshot
 ![image](./news-blog.png)
 
 
-### Sevice page
+### Service page
 
 #### service Item
 
