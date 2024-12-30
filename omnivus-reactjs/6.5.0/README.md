@@ -75,7 +75,9 @@ To change your Site Favicon by following screenshot
 ![image](./icon.png)
 
 
-### How to change banner image
+
+### changes Home 1 
+#### How to change banner image
 
 > [!NOTE]  
 > `_banner.scss` is placed in the `src\assets\scss\` directory
@@ -83,7 +85,7 @@ To change your Site Favicon by following screenshot
 ![image](./banner-imgs.png)
 
 
-### Services
+#### Services
 
 > [!NOTE]  
 > `Index.jsx` is placed in the `src\componets\LatestServicesPart\` directory
@@ -91,7 +93,7 @@ To change your Site Favicon by following screenshot
 ![image](./service.png)
 
 
-### Team Member
+#### Team Member
 
 > [!NOTE]  
 > `Index.jsx` is placed in the `src\componets\teamMemberPart\` directory
@@ -99,7 +101,7 @@ To change your Site Favicon by following screenshot
 ![image](./team-member.png)
 
 
-### latest news
+#### latest news
 
 > [!NOTE]  
 > `Index.jsx` is placed in the `src\componets\latestNewsPart` directory
