@@ -143,6 +143,24 @@ To change your Site Favicon by following screenshot
 ![image](./news-blog.png)
 
 
+### Sevice page
+
+#### service Item
+
+> [!NOTE]  
+> `Index.jsx` is placed in the `src\componets\servicesItemPart\` directory
+
+![image](./service-item.png)
+
+
+#### service plans
+
+> [!NOTE]  
+> `ServicesPlansPart.jsx` is placed in the `src\componets\servicesPart\` directory
+
+![image](./service-plans.png)
+
+
 #### Build the project for production
 
 ```bash
