@@ -1,4 +1,4 @@
-#  Welcome To Omnivus - **IT solutions, digital services, and business agencies** theme 
+#  Welcome To Omnivus - IT solutions, digital services, and business agencies theme 
 
 Firstly, a huge thanks for purchasing this theme, your support is truly appreciated!
 
