@@ -252,9 +252,11 @@ If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/du
 
 ### Source and Credit
 
-* [@fortawesome](https://fontawesome.com/)
-* [Animate.css](https://github.com/animate-css/animate.css)
-* AxiosURL: https://github.com/axios/axios
+@fortawesome: https://fontawesome.com/
+
+Animate.css :https://github.com/animate-css/animate.css
+
+AxiosURL: https://github.com/axios/axios
 
 BootstrapURL: https://getbootstrap.com/
 
@@ -270,5 +272,6 @@ React IconsURL: https://github.com/react-icons/react-icons
 
 React Modal VideoURL: https://github.com/appleple/react-modal-video
 
-* [React Slick](https://github.com/akiran/react-slick)
+React Slick: https://github.com/akiran/react-slick
+
 React ToastifyURL: https://github.com/fkhadra/react-toastify
