@@ -35,12 +35,12 @@ To set up locally, follow these steps:
 
 ### 🛠️ Customization
 
-### Change Site Title 
+#### Change Site Title 
 
 To change the site title, open the project in your editor and edit the `next.config.js` file or use the `Head` component in the pages where needed:
 
 
-#### Method 1: Global Title
+##### Method 1: Global Title
  Modify the Site Title in `next.config.js`
  
 1. Open the project in your editor.
@@ -64,7 +64,7 @@ module.exports = {
   },
 };
 ```
-#### Method 2: Individual Pages
+##### Method 2: Individual Pages
 
 If you want to set a specific title for individual pages, you can use the `Head` component from `next/head`:
 
@@ -91,7 +91,7 @@ export default function Home() {
 }
 ```
 
-### Update the Favicon
+#### Update the Favicon
 
 To update the favicon for your site, follow these steps:
 
@@ -107,7 +107,7 @@ public/
 
 
 
-###  Home 1 
+####  Home 1 
 
 For **Home 1**, you can customize the following sections:
 
@@ -129,7 +129,7 @@ For **Home 1**, you can customize the following sections:
 
 
 
-###  Home 2 
+####  Home 2 
 
 For **Home 2**, you can modify:
 
@@ -151,7 +151,7 @@ For **Home 2**, you can modify:
 
 
 
-###  Service 
+####  Service 
 
 On the **Service Page**, you can customize:
 
@@ -165,7 +165,7 @@ On the **Service Page**, you can customize:
 
 
 
-###  Case Study 
+####  Case Study 
 
 To edit the **Case Study Page**, update `page.js` located in `src\app\(pages)\(others)\case-study/`.
 
@@ -178,7 +178,7 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
 ![image](./team-page.png)
 
 
-###  blog-standard
+####  blog-standard
 
 - **Blog**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
   
@@ -200,7 +200,7 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
 
 
 
-###  blog-grid
+####  blog-grid
 
 - **Blogs**: Edit `page.js` in `src\app\(pages)\(others)\(blog)\blog-grid\`.
   
@@ -210,7 +210,7 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
 
 
 
-###  Shop
+####  Shop
 
 - **Shop**: Edit `page.js` in `src\app\(pages)\(others)\shop\`.
   
@@ -220,7 +220,7 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
 
 
 
-###  Product
+####  Product
 
 - **Product**: Edit `page.js` in `src\app\(pages)\(others)\products\`.
   
