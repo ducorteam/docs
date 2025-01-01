@@ -4,13 +4,13 @@ Omnivus is a cutting-edge React application designed for **IT solutions, digital
 
 ---
 
-## ⚙️ Requirements  
+### ⚙️ Requirements  
 
 To install and set up this template properly, ensure your system has **Node.js** installed, and you are using **Yarn** for managing dependencies.  
 
 ---
 
-## 🚀 Quick Start Guide  
+### 🚀 Quick Start Guide  
 
 To begin, install the required dependencies using the following command:  
 
@@ -28,7 +28,7 @@ Navigate to [http://localhost:5173/](http://localhost:5173/). The app will autom
 
 ---
 
-## 📦 What's Included  
+### 📦 What's Included  
 
 After purchasing the **Omnivus** template on Themeforest, download the package. Extract the files to access:  
 
@@ -42,7 +42,7 @@ Here’s an overview of the included files:
 
 ---
 
-## ⚛️ React Installation  
+### ⚛️ React Installation  
 
 To set up locally, follow these steps:  
 
@@ -57,7 +57,7 @@ To set up locally, follow these steps:
 
 ---
 
-## 🛠️ Customization  
+### 🛠️ Customization  
 
 ### Change Site Title and Favicon  
 
@@ -71,7 +71,7 @@ To update the favicon, replace the `favicon.ico` file in the `public/` directory
 
 ---
 
-## Home 1 Customization  
+### Home 1 Customization  
 
 For **Home 1**, you can customize the following sections:  
 
@@ -93,7 +93,7 @@ For **Home 1**, you can customize the following sections:
 
 ---
 
-## Home 2 Customization  
+### Home 2 Customization  
 
 For **Home 2**, you can modify:  
 
@@ -115,7 +115,7 @@ For **Home 2**, you can modify:
 
 ---
 
-## Service Page  
+### Service Page  
 
 On the **Service Page**, you can customize:  
 
@@ -129,7 +129,7 @@ On the **Service Page**, you can customize:
 
 ---
 
-## Case Study Page  
+### Case Study Page  
 
 To edit the **Case Study Page**, update `index.jsx` located in `src/pages/case-study/`.  
 
@@ -137,7 +137,7 @@ To edit the **Case Study Page**, update `index.jsx` located in `src/pages/case-s
 
 ---
 
-## 🏗️ Build for Production  
+### 🏗️ Build for Production  
 
 To build the project for production, use:  
 
@@ -147,7 +147,7 @@ yarn build
 
 ---
 
-## 🧹 Clean Up  
+### 🧹 Clean Up  
 
 To remove the `node_modules` folder and clean your project, run:  
 
@@ -157,7 +157,7 @@ yarn clean
 
 ---
 
-## 📧 Support  
+### 📧 Support  
 
 If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/ducor). 😊  
 
