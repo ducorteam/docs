@@ -15,8 +15,7 @@ This document covers the installation and use of this theme and often reveals an
 - **Documentation Folder**: Contains this documentation you are reading now.
 
 Here’s an overview of the included files:
-
-![image](./main.png)  
+ 
 ![image](./fils.png)
 
 ### ⚛️ Next.js Installation
