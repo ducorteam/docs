@@ -31,7 +31,7 @@ To set up locally, follow these steps:
    yarn dev
    ```
 
----
+
 
 ### 🛠️ Customization
 
@@ -106,7 +106,6 @@ public/
 ```
 
 
----
 
 ###  Home 1 
 
@@ -128,7 +127,7 @@ For **Home 1**, you can customize the following sections:
 
   ![image](./news-blog.png)
 
----
+
 
 ###  Home 2 
 
@@ -150,7 +149,7 @@ For **Home 2**, you can modify:
 
   ![image](./news-blog.png)
 
----
+
 
 ###  Service 
 
@@ -164,7 +163,7 @@ On the **Service Page**, you can customize:
 
   ![image](./service-plan.png)
 
----
+
 
 ###  Case Study 
 
@@ -172,14 +171,13 @@ To edit the **Case Study Page**, update `page.js` located in `src\app\(pages)\(o
 
 ![image](./case-stydy.png)
 
----
 ###  Team
 
 To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)\team`.
 
 ![image](./team-page.png)
 
----
+
 ###  blog-standard
 
 - **Blog**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
@@ -200,7 +198,7 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
 
 
 
----
+
 
 ###  blog-grid
 
@@ -210,7 +208,7 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
 
 
 
----
+
 
 ###  Shop
 
@@ -220,7 +218,7 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
 
 
 
----
+
 
 ###  Product
 
@@ -230,7 +228,7 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
 
 
 
----
+
 
 ### 🏗️ Build for Production
 
@@ -240,7 +238,7 @@ To build the project for production, use:
 yarn build
 ```
 
----
+
 
 
 
