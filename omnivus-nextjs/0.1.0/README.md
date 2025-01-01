@@ -136,7 +136,7 @@ public/
 
 For **Home 1**, you can customize the following sections:
 
-- **Banner Image**: Modify `_banner.scss` located in `styles/`.
+- **Banner Image**: Modify `_banner.scss` located in `public\assets\scss\`.
 
   ![image](./banner-imgs.png)
 
