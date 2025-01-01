@@ -73,6 +73,7 @@ To change the site title, open the project in your editor and edit the `next.con
 
 
 Example:
+
 ```js
 // next.config.js
 module.exports = {
@@ -96,6 +97,7 @@ If you want to set a specific title for individual pages, you can use the `Head`
 3. Add a `<title>` tag inside the `Head` component for each page.
 
 Example:
+
 ```js
 // pages/index.js
 import Head from 'next/head';
@@ -121,6 +123,7 @@ To update the favicon for your site, follow these steps:
 2. Next.js automatically serves the favicon from the `public/` directory, and it will be used across all pages.
 
 File Structure:
+
 ```plaintext
 public/
   favicon.ico  // Your updated favicon file
@@ -204,15 +207,19 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
 ### 🔄 blog-standard
 
 - **Blog**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+  
 ![image](./blog.png)
 
 - **Popular-feed**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+  
 ![image](./popular-feed.png)
 
 - **Categories**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+  
 ![image](./categories.png)
 
 - **Tags**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+  
 ![image](./tags.png)
 
 
