@@ -194,6 +194,13 @@ To edit the **Case Study Page**, update `page.js` located in `pages/case-study/`
 ![image](./case-stydy.png)
 
 ---
+### 🔄 Team
+
+To edit the **Team Page**, update `page.js` located in `pages/team`.
+
+![image](./team-page.png)
+
+---
 
 ### 🏗️ Build for Production
 
