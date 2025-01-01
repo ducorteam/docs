@@ -168,13 +168,13 @@ To change your Site Favicon by following screenshot
 
 ![image](./case-stydy.png)
 
-### Build the project for production
+### 🏗️ Build the project for production
 
 ```bash
 yarn build
 ```
 
-### Remove node_modules
+### 🧹 Remove node_modules
 
 ```bash
 yarn clean
