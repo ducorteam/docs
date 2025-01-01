@@ -140,26 +140,26 @@ To edit the **Case Study Page**, update `index.jsx` located in `src/pages/case-s
 ---
 ###  Team
 
-To edit the **Team Page**, update `Index.js` located in `E:\jubayedvaia\theme-projects\omnivus-reactjs\main\omnivus-reactjs\src\pages\team`.
+To edit the **Team Page**, update `Index.js` located in `src\pages\team`.
 
 ![image](./team-page.png)
 
 ---
 ###  blog-standard
 
-- **Blog**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+- **Blog**: Edit `BlogSideBar.jsx` in `src\componets\blog\`.
   
 ![image](./blog.png)
 
-- **Popular-feed**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+- **Popular-feed**: Edit `BlogSideBar.jsx` in `src\componets\blog\`.
   
 ![image](./popular-feed.png)
 
-- **Categories**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+- **Categories**: Edit `BlogSideBar.jsx` in `src\componets\blog\`.
   
 ![image](./categories.png)
 
-- **Tags**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+- **Tags**: Edit `BlogSideBar.jsx` in `src\componets\blog\`.
   
 ![image](./tags.png)
 
@@ -169,7 +169,7 @@ To edit the **Team Page**, update `Index.js` located in `E:\jubayedvaia\theme-pr
 
 ###  blog-grid
 
-- **Blogs**: Edit `page.js` in `src\app\(pages)\(others)\(blog)\blog-grid\`.
+- **Blogs**: Edit `blog-grid.jsx` in `src\pages\blog\`.
   
 ![image](./blogs.png)
 
@@ -179,7 +179,7 @@ To edit the **Team Page**, update `Index.js` located in `E:\jubayedvaia\theme-pr
 
 ###  Shop
 
-- **Shop**: Edit `page.js` in `src\app\(pages)\(others)\shop\`.
+- **Shop**: Edit `index.js` in `src\pages\shop\`.
   
 ![image](./products.png)
 
@@ -189,7 +189,7 @@ To edit the **Team Page**, update `Index.js` located in `E:\jubayedvaia\theme-pr
 
 ###  Product
 
-- **Product**: Edit `page.js` in `src\app\(pages)\(others)\products\`.
+- **Product**: Edit `index.js` in `src\pages\products\`.
   
 ![image](./product.png)
 
