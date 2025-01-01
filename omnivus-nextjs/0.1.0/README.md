@@ -171,7 +171,7 @@ To edit the **Case Study Page**, update `page.js` located in `src\app\(pages)\(o
 
 ![image](./case-stydy.png)
 
-###  Team
+####  Team
 
 To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)\team`.
 
