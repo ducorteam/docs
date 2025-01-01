@@ -120,7 +120,7 @@ To update the favicon for your site, follow these steps:
 1. Replace the `favicon.ico` file in the `public/` directory with your desired favicon file.
 2. Next.js automatically serves the favicon from the `public/` directory, and it will be used across all pages.
 
-#### File Structure:
+File Structure:
 ```plaintext
 public/
   favicon.ico  // Your updated favicon file
