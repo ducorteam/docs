@@ -189,21 +189,31 @@ On the **Service Page**, you can customize:
 
 ### 🔄 Case Study 
 
-To edit the **Case Study Page**, update `page.js` located in `pages/case-study/`.
+To edit the **Case Study Page**, update `page.js` located in `src\app\(pages)\(others)\case-study/`.
 
 ![image](./case-stydy.png)
 
 ---
 ### 🔄 Team
 
-To edit the **Team Page**, update `page.js` located in `pages/team`.
+To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)\team`.
 
 ![image](./team-page.png)
 
 ---
 ### 🔄 blog-standard
 
-To edit the **Blog-standard Page**, update `page.js` located in `pages/blog-standard`.
+- **Blog**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+![image](./blog.png)
+
+- **Popular-feed**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+![image](./popular-feed.png)
+
+- **Categories**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+![image](./categories.png)
+
+- **Tags**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+![image](./tags.png)
 
 
 
