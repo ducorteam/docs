@@ -1,36 +1,15 @@
-# Omnivus
+#  Welcome To Omnivus - **IT solutions, digital services, and business agencies** theme 
 
-Omnivus is a cutting-edge Next.js application designed for **IT solutions, digital services, and business agencies**. This project is fully responsive, feature-packed, and customizable for any modern IT-related business.
+Firstly, a huge thanks for purchasing this theme, your support is truly appreciated!
 
----
+This document covers the installation and use of this theme and often reveals answers to common problems and issues - read this document thoroughly if you are experiencing any difficulties. If you have any questions that are beyond the scope of this document, feel free to email at [__EMAIL__](mailto:__EMAIL__) Thank you so much!
 
-### ⚙️ Requirements
 
-To install and set up this template properly, ensure your system has **Node.js** installed, and you are using **Yarn** for managing dependencies.
+## Basic
 
----
-
-### 🚀 Quick Start Guide
-
-To begin, install the required dependencies using the following command:
-
-```bash
-yarn install
-```
-
-After installation, start the development server with:
-
-```bash
-yarn dev
-```
-
-Navigate to [http://localhost:3000/](http://localhost:3000/). The app will automatically reload when you change any source files.
-
----
-
-### 📦 What's Included
-
-After purchasing the **Omnivus** template on Themeforest, download the package. Extract the files to access:
+1.  After unzip the download pack, you'll found a Template Folder with all the files.
+2.  You can view this Template in any browser, you can display or edit the Template without an internet connection.(May not wotrk fonts and google map).
+3.  This section that will not work is the Contact Section
 
 - **Omnivus Template**: An installable Next.js template zip file.
 - **Documentation Folder**: Contains this documentation you are reading now.
@@ -39,8 +18,6 @@ Here’s an overview of the included files:
 
 ![image](./main.png)  
 ![image](./fils.png)
-
----
 
 ### ⚛️ Next.js Installation
 
