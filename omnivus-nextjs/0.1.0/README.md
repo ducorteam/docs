@@ -63,11 +63,71 @@ To set up locally, follow these steps:
 
 To change the site title, open the project in your editor and edit the `next.config.js` file or use the `Head` component in the pages where needed:
 
-![image](./title.png)
 
-To update the favicon, replace the `favicon.ico` file in the `public/` directory as shown:
+#### Method 1: Global Title
+ Modify the Site Title in `next.config.js`
+ 
+1. Open the project in your editor.
+2. Edit the `next.config.js` file.
+3. Update the `title` property inside the `head` configuration.
 
-![image](./icon.png)
+
+#### Example:
+
+```js
+// next.config.js
+module.exports = {
+  head: {
+    title: 'My Awesome Site',  // Set the global title here
+    meta: [
+      {
+        name: 'description',
+        content: 'This is an awesome Next.js site!'  // Optional description
+      },
+    ],
+  },
+};
+```
+#### Method 2: Individual Pages
+
+If you want to set a specific title for individual pages, you can use the `Head` component from `next/head`:
+
+1. Open or create the page where you want to change the title (e.g., `pages/index.js`).
+2. Import the `Head` component from `next/head`.
+3. Add a `<title>` tag inside the `Head` component for each page.
+
+#### Example:
+
+```js
+// pages/index.js
+import Head from 'next/head';
+
+export default function Home() {
+  return (
+    <div>
+      <Head>
+        <title>Home - My Awesome Site</title>  {/* Page-specific title */}
+        <meta name="description" content="Welcome to the homepage of My Awesome Site!" />
+      </Head>
+      <h1>Welcome to My Awesome Site!</h1>
+    </div>
+  );
+}
+```
+
+### Update the Favicon
+
+To update the favicon for your site, follow these steps:
+
+1. Replace the `favicon.ico` file in the `public/` directory with your desired favicon file.
+2. Next.js automatically serves the favicon from the `public/` directory, and it will be used across all pages.
+
+#### File Structure:
+```plaintext
+public/
+  favicon.ico  // Your updated favicon file
+```
+
 
 ---
 
