@@ -59,7 +59,7 @@ To set up locally, follow these steps:
 
 ### 🛠️ Customization
 
-### Change Site Title and Favicon
+### Change Site Title 
 
 To change the site title, open the project in your editor and edit the `next.config.js` file or use the `Head` component in the pages where needed:
 
@@ -72,8 +72,7 @@ To change the site title, open the project in your editor and edit the `next.con
 3. Update the `title` property inside the `head` configuration.
 
 
-#### Example:
-
+Example:
 ```js
 // next.config.js
 module.exports = {
@@ -96,8 +95,7 @@ If you want to set a specific title for individual pages, you can use the `Head`
 2. Import the `Head` component from `next/head`.
 3. Add a `<title>` tag inside the `Head` component for each page.
 
-#### Example:
-
+Example:
 ```js
 // pages/index.js
 import Head from 'next/head';
@@ -131,7 +129,7 @@ public/
 
 ---
 
-### Home 1 Customization
+### 🔄 Home 1 Customization
 
 For **Home 1**, you can customize the following sections:
 
@@ -153,7 +151,7 @@ For **Home 1**, you can customize the following sections:
 
 ---
 
-### Home 2 Customization
+### 🔄 Home 2 Customization
 
 For **Home 2**, you can modify:
 
@@ -175,7 +173,7 @@ For **Home 2**, you can modify:
 
 ---
 
-### Service Page
+### 🔄 Service Page
 
 On the **Service Page**, you can customize:
 
@@ -189,7 +187,7 @@ On the **Service Page**, you can customize:
 
 ---
 
-### Case Study Page
+### 🔄 Case Study Page
 
 To edit the **Case Study Page**, update `page.js` located in `pages/case-study/`.
 
