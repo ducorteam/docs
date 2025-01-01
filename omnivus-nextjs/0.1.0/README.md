@@ -32,7 +32,6 @@ To set up locally, follow these steps:
    ```
 
 
-
 ### 🛠️ Customization
 
 #### Change Site Title 
