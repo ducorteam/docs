@@ -245,3 +245,25 @@ yarn build
 ### 📧 Support
 
 If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/ducor). 😊
+
+### Source and Credit
+
+@fortawesome/fontawesome-svg-coreURL: https://fontawesome.com/
+@fortawesome/free-brands-svg-iconsURL: https://fontawesome.com/
+@fortawesome/free-solid-svg-iconsURL: https://fontawesome.com/
+@fortawesome/react-fontawesomeURL: https://fontawesome.com/
+Animate.cssURL: https://github.com/animate-css/animate.css
+AxiosURL: https://github.com/axios/axios
+BootstrapURL: https://getbootstrap.com/
+React BootstrapURL: https://react-bootstrap.github.io/
+Desandro Matches SelectorURL: https://github.com/desandro/matches-selector
+Get SizeURL: https://github.com/desandro/get-size
+Next.jsURL: https://nextjs.org/
+ReactURL: https://reactjs.org/
+React DOMURL: https://reactjs.org/docs/react-dom.html
+React IconsURL: https://github.com/react-icons/react-icons
+React Modal VideoURL: https://github.com/appleple/react-modal-video
+React SlickURL: https://github.com/akiran/react-slick
+React ToastifyURL: https://github.com/fkhadra/react-toastify
+SassURL: https://sass-lang.com/
+Slick CarouselURL: https://github.com/kenwheeler/slick
