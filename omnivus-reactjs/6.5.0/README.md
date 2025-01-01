@@ -76,7 +76,7 @@ To change your Site Favicon by following screenshot
 
 
 
-### changes Home 1 
+### 🔄 changes Home 1 
 #### How to change banner image
 
 > [!NOTE]  
@@ -110,7 +110,7 @@ To change your Site Favicon by following screenshot
 
 
 
-### changes in Home 2
+### 🔄 changes in Home 2
 
 #### How to change banner image
 
@@ -143,7 +143,7 @@ To change your Site Favicon by following screenshot
 ![image](./news-blog.png)
 
 
-### Service page
+### 🔄 Service page
 
 #### service Item
 
@@ -161,7 +161,7 @@ To change your Site Favicon by following screenshot
 ![image](./service-plan.png)
 
 
-### Case Study Page
+### 🔄 Case Study Page
 
 > [!NOTE]  
 > `index.jsx` is placed in the `src\pages\case-study\` directory
