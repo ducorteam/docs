@@ -129,7 +129,7 @@ public/
 
 ---
 
-### 🔄 Home 1 Customization
+### 🔄 Home 1 
 
 For **Home 1**, you can customize the following sections:
 
@@ -151,7 +151,7 @@ For **Home 1**, you can customize the following sections:
 
 ---
 
-### 🔄 Home 2 Customization
+### 🔄 Home 2 
 
 For **Home 2**, you can modify:
 
@@ -173,7 +173,7 @@ For **Home 2**, you can modify:
 
 ---
 
-### 🔄 Service Page
+### 🔄 Service 
 
 On the **Service Page**, you can customize:
 
@@ -187,7 +187,7 @@ On the **Service Page**, you can customize:
 
 ---
 
-### 🔄 Case Study Page
+### 🔄 Case Study 
 
 To edit the **Case Study Page**, update `page.js` located in `pages/case-study/`.
 
@@ -199,6 +199,13 @@ To edit the **Case Study Page**, update `page.js` located in `pages/case-study/`
 To edit the **Team Page**, update `page.js` located in `pages/team`.
 
 ![image](./team-page.png)
+
+---
+### 🔄 blog-standard
+
+To edit the **Blog-standard Page**, update `page.js` located in `pages/blog-standard`.
+
+
 
 ---
 
