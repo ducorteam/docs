@@ -225,11 +225,32 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
 
 
 ---
+
 ### 🔄 blog-grid
 
 - **Blogs**: Edit `page.js` in `src\app\(pages)\(others)\(blog)\blog-grid\`.
   
 ![image](./blogs.png)
+
+
+
+---
+
+### 🔄 Shop
+
+- **Shop**: Edit `page.js` in `src\app\(pages)\(others)\shop\`.
+  
+![image](./products.png)
+
+
+
+---
+
+### 🔄 Product
+
+- **Product**: Edit `page.js` in `src\app\(pages)\(others)\products\`.
+  
+![image](./product.png)
 
 
 
