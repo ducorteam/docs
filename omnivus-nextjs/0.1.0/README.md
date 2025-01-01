@@ -63,6 +63,9 @@ module.exports = {
   },
 };
 ```
+
+
+
 ##### Method 2: Individual Pages
 
 If you want to set a specific title for individual pages, you can use the `Head` component from `next/head`:
@@ -89,6 +92,8 @@ export default function Home() {
   );
 }
 ```
+
+
 
 #### Update the Favicon
 
@@ -170,6 +175,8 @@ To edit the **Case Study Page**, update `page.js` located in `src\app\(pages)\(o
 
 ![image](./case-stydy.png)
 
+
+
 ####  Team
 
 To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)\team`.
@@ -244,6 +251,10 @@ yarn build
 ### 📧 Support
 
 If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/ducor). 😊
+
+
+
+
 
 ### Source and Credit
 
