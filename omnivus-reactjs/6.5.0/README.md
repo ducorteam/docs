@@ -137,6 +137,67 @@ To edit the **Case Study Page**, update `index.jsx` located in `src/pages/case-s
 
 ---
 
+---
+###  Team
+
+To edit the **Team Page**, update `Index.js` located in `E:\jubayedvaia\theme-projects\omnivus-reactjs\main\omnivus-reactjs\src\pages\team`.
+
+![image](./team-page.png)
+
+---
+###  blog-standard
+
+- **Blog**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+  
+![image](./blog.png)
+
+- **Popular-feed**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+  
+![image](./popular-feed.png)
+
+- **Categories**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+  
+![image](./categories.png)
+
+- **Tags**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
+  
+![image](./tags.png)
+
+
+
+---
+
+###  blog-grid
+
+- **Blogs**: Edit `page.js` in `src\app\(pages)\(others)\(blog)\blog-grid\`.
+  
+![image](./blogs.png)
+
+
+
+---
+
+###  Shop
+
+- **Shop**: Edit `page.js` in `src\app\(pages)\(others)\shop\`.
+  
+![image](./products.png)
+
+
+
+---
+
+###  Product
+
+- **Product**: Edit `page.js` in `src\app\(pages)\(others)\products\`.
+  
+![image](./product.png)
+
+
+
+---
+
+
 ### 🏗️ Build for Production  
 
 To build the project for production, use:  
