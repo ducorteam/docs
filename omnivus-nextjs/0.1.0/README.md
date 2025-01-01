@@ -191,7 +191,7 @@ On the **Service Page**, you can customize:
 
 ### Case Study Page
 
-To edit the **Case Study Page**, update `index.jsx` located in `pages/case-study/`.
+To edit the **Case Study Page**, update `page.js` located in `pages/case-study/`.
 
 ![image](./case-stydy.png)
 
