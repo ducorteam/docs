@@ -1,185 +1,163 @@
-
-
 # Omnivus  
 
 Omnivus is a cutting-edge React application designed for **IT solutions, digital services, and business agencies**. This project is fully responsive, feature-packed, and customizable for any modern IT-related business.  
 
 ---
 
-### ⚙️ Requirements  
+## ⚙️ Requirements  
 
-Ensure your system meets the following requirements to install and set up this template properly:  
-- **Node.js** installed on your system.  
-- **Yarn** for managing dependencies.  
+To install and set up this template properly, ensure your system has **Node.js** installed, and you are using **Yarn** for managing dependencies.  
 
 ---
 
-### 🚀 Quick Start Guide  
+## 🚀 Quick Start Guide  
 
-#### 📥 Install Dependencies  
+To begin, install the required dependencies using the following command:  
 
-You need to install the required packages. Run the following command from the root of your project:  
 ```bash
 yarn install
 ```
 
-#### Start the development server
+After installation, start the development server with:  
 
-Run yarn dev for a dev server. Navigate to http://localhost:5173/ . The app will automatically reload if you change any of the source files. 
 ```bash
 yarn dev
 ```
 
-### What's Included
-After purchasing __Omnivus__ template on themeforest.net with your envato account, go to your download page. You can choose to download __Omnivus__ template only (Installable React template) or the entire __Omnivus__ template.After extract the package you will find following this files: 
-
-![image](./main.png)
-
-
-![image](./fils.png)
-
-
-#### purchasing our template
----
-
-| 📦 **Omnivus**          | **An Installable React template zip file.** This file you need to upload.    |
-|--------------------------|-----------------------------------------------------------------------------|
-| 📄 **Documentation**     | **This folder contains the documentation you are reading now.** 🙂         |
+Navigate to [http://localhost:5173/](http://localhost:5173/). The app will automatically reload when you change any source files.  
 
 ---
 
-### ⚛️ React Installation  
-Please follow the instructions to see how you can install React on your hosting: 
+## 📦 What's Included  
 
- For Localhost Setup -
-> [!IMPORTANT]
-> 
-> - Open your command prompt.
->   - `yarn install`
->   - `yarn dev`
+After purchasing the **Omnivus** template on Themeforest, download the package. Extract the files to access:  
 
+- **Omnivus Template**: An installable React template zip file.
+- **Documentation Folder**: Contains this documentation you are reading now.  
 
+Here’s an overview of the included files:  
 
-### Change Site Title
+![image](./main.png)  
+![image](./fils.png)  
 
-To change your Site title and Favicon open the Omnivus in your editor and go to the location by following screenshot which are given bellow.
+---
 
-![image](./title.png)
+## ⚛️ React Installation  
 
-### Change Favicon
+To set up locally, follow these steps:  
 
-To change your Site Favicon by following screenshot
-> [!NOTE]  
-> ⭐`favicon.ico` is placed in the `public/` directory
+1. Open your terminal or command prompt.  
+2. Navigate to the project folder.  
+3. Run the following commands:  
 
-![image](./icon.png)
+   ```bash
+   yarn install
+   yarn dev
+   ```
 
+---
 
+## 🛠️ Customization  
 
-### 🔄 changes Home 1 
-#### How to change banner image
+### Change Site Title and Favicon  
 
-> [!NOTE]  
-> `_banner.scss` is placed in the `src\assets\scss\` directory
+To change the site title, open the project in your editor and follow this screenshot:  
 
-![image](./banner-imgs.png)
+![image](./title.png)  
 
+To update the favicon, replace the `favicon.ico` file in the `public/` directory as shown:  
 
-#### Services
+![image](./icon.png)  
 
-> [!NOTE]  
-> `Index.jsx` is placed in the `src\componets\LatestServicesPart\` directory
+---
 
-![image](./service.png)
+## Home 1 Customization  
 
+For **Home 1**, you can customize the following sections:  
 
-#### Team Member
+- **Banner Image**: Modify `_banner.scss` located in `src/assets/scss/`.  
 
-> [!NOTE]  
-> `Index.jsx` is placed in the `src\componets\teamMemberPart\` directory
+  ![image](./banner-imgs.png)  
 
-![image](./team-member.png)
+- **Services Section**: Edit `Index.jsx` in `src/components/LatestServicesPart/`.  
 
+  ![image](./service.png)  
 
-#### latest news
+- **Team Member Section**: Edit `Index.jsx` in `src/components/teamMemberPart/`.  
 
-> [!NOTE]  
-> `Index.jsx` is placed in the `src\componets\latestNewsPart` directory
+  ![image](./team-member.png)  
 
-![image](./news-blog.png)
+- **Latest News Section**: Edit `Index.jsx` in `src/components/latestNewsPart/`.  
 
+  ![image](./news-blog.png)  
 
+---
 
-### 🔄 changes in Home 2
+## Home 2 Customization  
 
-#### How to change banner image
+For **Home 2**, you can modify:  
 
-> [!NOTE]  
-> `Index2.jsx` is placed in the `src\componets\banner` directory
+- **Banner Image**: Edit `Index2.jsx` in `src/components/banner/`.  
 
-![image](./banner-img-2.png)
+  ![image](./banner-img-2.png)  
 
+- **Services Section**: Edit `Index.jsx` in `src/components/whatWeDoPart/`.  
 
-#### Services
+  ![image](./service-2.png)  
 
-> [!NOTE]  
-> `Index.jsx` is placed in the `src\componets\whatWeDoPart` directory
+- **FAQ Section**: Edit `Index.jsx` in `src/components/answersPart/`.  
 
-![image](./service-2.png)
+  ![image](./faq-home-2.png)  
 
+- **Latest News Section**: Edit `Index.jsx` in `src/components/latestNewsPart/`.  
 
-#### FAQ
+  ![image](./news-blog.png)  
 
-> [!NOTE]  
-> `Index.jsx` is placed in the `src\componets\answersPart\` directory
+---
 
-![image](./faq-home-2.png)
+## Service Page  
 
-#### latest news
+On the **Service Page**, you can customize:  
 
-> [!NOTE]  
-> `Index.jsx` is placed in the `src\componets\latestNewsPart` directory
+- **Service Item Section**: Edit `Index.jsx` in `src/components/servicesItemPart/`.  
 
-![image](./news-blog.png)
+  ![image](./service-item.png)  
 
+- **Service Plans Section**: Edit `ServicesPlansPart.jsx` in `src/components/servicesPart/`.  
 
-### 🔄 Service page
+  ![image](./service-plan.png)  
 
-#### service Item
+---
 
-> [!NOTE]  
-> `Index.jsx` is placed in the `src\componets\servicesItemPart\` directory
+## Case Study Page  
 
-![image](./service-item.png)
+To edit the **Case Study Page**, update `index.jsx` located in `src/pages/case-study/`.  
 
+![image](./case-stydy.png)  
 
-#### service plans
+---
 
-> [!NOTE]  
-> `ServicesPlansPart.jsx` is placed in the `src\componets\servicesPart\` directory
+## 🏗️ Build for Production  
 
-![image](./service-plan.png)
-
-
-### 🔄 Case Study Page
-
-> [!NOTE]  
-> `index.jsx` is placed in the `src\pages\case-study\` directory
-
-![image](./case-stydy.png)
-
-### 🏗️ Build the project for production
+To build the project for production, use:  
 
 ```bash
 yarn build
 ```
 
-### 🧹 Remove node_modules
+---
+
+## 🧹 Clean Up  
+
+To remove the `node_modules` folder and clean your project, run:  
 
 ```bash
 yarn clean
 ```
 
-###### Support ? _EMAIL_
+---
 
-If you like our product. [Please Rate Us](https://themeforest.net/user/ducor)
+## 📧 Support  
+
+If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/ducor). 😊  
+
