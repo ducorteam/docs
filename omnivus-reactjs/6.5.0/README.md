@@ -49,7 +49,7 @@ To update the favicon, replace the `favicon.ico` file in the `public/` directory
 
 ---
 
-### Home 1 Customization  
+#### Home 1   
 
 For **Home 1**, you can customize the following sections:  
 
@@ -69,9 +69,9 @@ For **Home 1**, you can customize the following sections:
 
   ![image](./news-blog.png)  
 
----
 
-### Home 2 Customization  
+
+###@ Home 2   
 
 For **Home 2**, you can modify:  
 
@@ -91,9 +91,9 @@ For **Home 2**, you can modify:
 
   ![image](./news-blog.png)  
 
----
 
-### Service Page  
+
+#### Service   
 
 On the **Service Page**, you can customize:  
 
@@ -105,25 +105,23 @@ On the **Service Page**, you can customize:
 
   ![image](./service-plan.png)  
 
----
 
-### Case Study Page  
+
+#### Case Study   
 
 To edit the **Case Study Page**, update `index.jsx` located in `src/pages/case-study/`.  
 
 ![image](./case-stydy.png)  
 
----
 
----
-###  Team
+####  Team
 
 To edit the **Team Page**, update `Index.js` located in `src\pages\team`.
 
 ![image](./team-page.png)
 
----
-###  blog-standard
+
+####  blog-standard
 
 - **Blog**: Edit `BlogSideBar.jsx` in `src\componets\blog\`.
   
@@ -143,9 +141,9 @@ To edit the **Team Page**, update `Index.js` located in `src\pages\team`.
 
 
 
----
 
-###  blog-grid
+
+####  blog-grid
 
 - **Blogs**: Edit `blog-grid.jsx` in `src\pages\blog\`.
   
@@ -153,9 +151,9 @@ To edit the **Team Page**, update `Index.js` located in `src\pages\team`.
 
 
 
----
 
-###  Shop
+
+####  Shop
 
 - **Shop**: Edit `index.js` in `src\pages\shop\`.
   
@@ -163,9 +161,9 @@ To edit the **Team Page**, update `Index.js` located in `src\pages\team`.
 
 
 
----
 
-###  Product
+
+####  Product
 
 - **Product**: Edit `index.js` in `src\pages\products\`.
   
@@ -184,7 +182,7 @@ To build the project for production, use:
 yarn build
 ```
 
----
+
 
 ### 🧹 Clean Up  
 
@@ -194,7 +192,7 @@ To remove the `node_modules` folder and clean your project, run:
 yarn clean
 ```
 
----
+
 
 ### 📧 Support  
 
