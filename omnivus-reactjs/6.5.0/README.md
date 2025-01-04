@@ -175,4 +175,3 @@ If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/du
 - [React Modal Video](https://github.com/appleple/react-modal-video)  
 - [React Slick](https://github.com/akiran/react-slick)  
 - [React Toastify](https://github.com/fkhadra/react-toastify)  
-
