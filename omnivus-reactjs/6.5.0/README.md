@@ -23,8 +23,7 @@ To set up locally, follow these steps:
 
 1. Open your terminal or command prompt.  
 2. Navigate to the project folder.  
-3. Run the following commands:  
-
+3. Run the following commands:
 ```bash
    yarn install
    yarn dev
