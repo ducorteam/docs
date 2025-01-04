@@ -60,7 +60,7 @@ For **Home 1**, you can customize the following sections:
 
   ![image](./news-blog.png)  
 
-###@ Home 2   
+#### Home 2   
 
 For **Home 2**, you can modify:  
 
