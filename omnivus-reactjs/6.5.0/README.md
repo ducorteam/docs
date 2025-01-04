@@ -4,7 +4,6 @@ Firstly, a huge thanks for purchasing this theme, your support is truly apprecia
 
 This document covers the installation and use of this theme and often reveals answers to common problems and issues - read this document thoroughly if you are experiencing any difficulties. If you have any questions that are beyond the scope of this document, feel free to email at [__EMAIL__](mailto:__EMAIL__) Thank you so much!
 
-
 ## Basic
 
 1.  After unzip the download pack, you'll found a Template Folder with all the files.
@@ -15,10 +14,7 @@ This document covers the installation and use of this theme and often reveals an
 - **Documentation Folder**: Contains this documentation you are reading now.
 
 Here’s an overview of the included files:
-
 ![image](./fils.png)  
-
----
 
 ### ⚛️ React Installation  
 
@@ -28,12 +24,10 @@ To set up locally, follow these steps:
 2. Navigate to the project folder.  
 3. Run the following commands:  
 
-   ```bash
+```bash
    yarn install
    yarn dev
-   ```
-
----
+```
 
 ### 🛠️ Customization  
 
@@ -47,15 +41,12 @@ To update the favicon, replace the `favicon.ico` file in the `public/` directory
 
 ![image](./icon.png)  
 
----
-
 #### Home 1   
 
 For **Home 1**, you can customize the following sections:  
 
 - **Banner Image**: Modify `_banner.scss` located in `src/assets/scss/`.  
-
-  ![image](./banner-imgs.png)  
+![image](./banner-imgs.png)  
 
 - **Services Section**: Edit `Index.jsx` in `src/components/LatestServicesPart/`.  
 
@@ -68,8 +59,6 @@ For **Home 1**, you can customize the following sections:
 - **Latest News Section**: Edit `Index.jsx` in `src/components/latestNewsPart/`.  
 
   ![image](./news-blog.png)  
-
-
 
 ###@ Home 2   
 
@@ -91,8 +80,6 @@ For **Home 2**, you can modify:
 
   ![image](./news-blog.png)  
 
-
-
 #### Service   
 
 On the **Service Page**, you can customize:  
@@ -105,8 +92,6 @@ On the **Service Page**, you can customize:
 
   ![image](./service-plan.png)  
 
-
-
 #### Case Study   
 
 To edit the **Case Study Page**, update `index.jsx` located in `src/pages/case-study/`.  
@@ -117,7 +102,6 @@ To edit the **Case Study Page**, update `index.jsx` located in `src/pages/case-s
 ####  Team
 
 To edit the **Team Page**, update `Index.js` located in `src\pages\team`.
-
 ![image](./team-page.png)
 
 
@@ -139,19 +123,11 @@ To edit the **Team Page**, update `Index.js` located in `src\pages\team`.
   
 ![image](./tags.png)
 
-
-
-
-
 ####  blog-grid
 
 - **Blogs**: Edit `blog-grid.jsx` in `src\pages\blog\`.
   
 ![image](./blogs.png)
-
-
-
-
 
 ####  Shop
 
@@ -159,19 +135,11 @@ To edit the **Team Page**, update `Index.js` located in `src\pages\team`.
   
 ![image](./products.png)
 
-
-
-
-
 ####  Product
 
 - **Product**: Edit `index.js` in `src\pages\products\`.
   
 ![image](./product.png)
-
-
-
----
 
 
 ### 🏗️ Build for Production  
@@ -182,8 +150,6 @@ To build the project for production, use:
 yarn build
 ```
 
-
-
 ### 🧹 Clean Up  
 
 To remove the `node_modules` folder and clean your project, run:  
@@ -191,8 +157,6 @@ To remove the `node_modules` folder and clean your project, run:
 ```bash
 yarn clean
 ```
-
-
 
 ### 📧 Support  
 
