@@ -14,9 +14,7 @@ This document covers the installation and use of this theme and often reveals an
 - **Fixed-piug-react Template**: An installable React.js template zip file.
 - **Documentation Folder**: Contains this documentation you are reading now.
 
-Here’s an overview of the included files:
 
-![image](./fils.png)  
 
 ### ⚛️ React Installation  
 
