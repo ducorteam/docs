@@ -2,7 +2,7 @@
 
 Firstly, a huge thanks for purchasing this theme, your support is truly appreciated!
 
-This document covers the installation and use of this theme and often reveals answers to common problems and issues - read this document thoroughly if you are experiencing any difficulties. If you have any questions that are beyond the scope of this document, feel free to email at [__EMAIL__](mailto:__EMAIL__) Thank you so much!
+This document covers the installation and use of this theme and often reveals answers to common problems and issues - read this document thoroughly if you are experiencing any difficulties. If you have any questions that are beyond the scope of this document, feel free to email at [suppot@ducor.net](mailto:__EMAIL__) Thank you so much!
 
 ## Basic
 
