@@ -51,9 +51,9 @@ yarn -v
  **Start Development Server:** This command starts the development server, enabling you to preview changes live in your browser. By 
      default, the server runs at `http://localhost:3000/`.
  ```bash
-    yarn dev
+    yarn run dev
   ```
-**Key Features of** `**yarn dev**`**:**
+**Key Features of** `**yarn run dev**`**:**
     
  *   Watches for file changes and updates the browser in real-time.      
  *   Provides detailed error messages during development.
@@ -239,19 +239,11 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
   
 ![image](./blogs.png)
 
-
-
-
-
 ####  Shop
 
 - **Shop**: Edit `page.js` in `src\app\(pages)\(others)\shop\`.
   
 ![image](./products.png)
-
-
-
-
 
 ####  Product
 
@@ -268,7 +260,7 @@ To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)
 To build the project for production, use:
 
 ```bash
-yarn build
+yarn run build
 ```
 
 
@@ -277,7 +269,7 @@ yarn build
 If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/ducor). 😊
 
 
-### Source and Credit
+#### Source and Credit
 
 - [@fortawesome](https://fontawesome.com/)  
 - [Animate.css](https://github.com/animate-css/animate.css)  
