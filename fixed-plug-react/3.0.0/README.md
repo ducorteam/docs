@@ -95,11 +95,7 @@ This theme is tested and compatible with the following browsers:
 *   Google Chrome
 *   Mozilla Firefox   
 *   Microsoft Edge    
-*   Safari
-
-  ### 📧 Support  
-  
- Thank you for choosing Fixed-Piug-React! We hope this theme meets your expectations and enhances your project. If you need further assistance, don't hesitate to reach out to us. Happy coding! [Please Rate Us](https://themeforest.net/user/ducor). 😊  
+*   Safari 
 
 #### Source and Credit
 
@@ -116,4 +112,6 @@ This theme is tested and compatible with the following browsers:
 - [React Toastify](https://fkhadra.github.io/react-toastify/)
 - [Styled Components](https://styled-components.com/)
 
- 
+### 📧 Support  
+  
+Thank you for choosing Fixed-Piug-React! We hope this theme meets your expectations and enhances your project. If you need further assistance, don't hesitate to reach out to us. Happy coding! [Please Rate Us](https://themeforest.net/user/ducor). 😊 
