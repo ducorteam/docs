@@ -23,11 +23,15 @@ To set up locally, follow these steps:
 1. Open your terminal or command prompt.  
 2. Navigate to the project folder.  
 3. Run the following commands:
+
+   Yarn is an established open-source package manager used to manage dependencies in JavaScript projects. It assists with the process of installing, updating, configuring, and removing packages dependencies, eventually helping you reach your objectives faster with fewer distractions.
 ```bash
    yarn install
-   yarn dev
 ```
+```bash
+   yarn dev
 
+```
 
 
 
