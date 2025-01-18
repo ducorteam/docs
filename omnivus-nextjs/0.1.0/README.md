@@ -18,19 +18,46 @@ Here’s an overview of the included files:
  
 ![image](./fils.png)
 
-### ⚛️ Next.js Installation
-
-To set up locally, follow these steps:
-
-1. Open your terminal or command prompt.  
-2. Navigate to the project folder.  
-3. Run the following commands:
-
+#### ⚛️ Project Installation 
+Ensure that you have Node.js (v16 or higher) installed on your system. To verify your Node.js version, run the following command:
+```bash
+node -v
+```
+You also need Yarn installed globally. If you do not have Yarn, install it using the following command:
+```bash
+npm install -g yarn
+```
+Verify Yarn installation with:
+```bash
+yarn -v
+```
+1.  Open your terminal or command prompt.
+2.  Navigate to the project folder.
    ```bash
-   yarn install
-   yarn dev
-   ```
+   cd omnivus-nextjs
+   ``` 
+3.  Run the following commands to set up the project:
 
+  Yarn is an established open-source package manager used to manage dependencies in JavaScript projects. It assists with the process of 
+  installing, updating, configuring, and removing packages dependencies, eventually helping you reach your objectives faster with fewer 
+  distractions.
+
+ > **Note**: Unlike most other package managers, which typically defer to npm for non-install-related commands, Yarn reimplements all 
+ commands, so as to have full control over our developer experience and stability. 
+ **Install Dependencies:**
+ ```bash
+  yarn install
+ ```
+ **Start Development Server:** This command starts the development server, enabling you to preview changes live in your browser. By 
+     default, the server runs at `http://localhost:3000/`.
+ ```bash
+    yarn dev
+  ```
+**Key Features of** `**yarn dev**`**:**
+    
+ *   Watches for file changes and updates the browser in real-time.      
+ *   Provides detailed error messages during development.
+ *   Optimized for fast feedback and iteration.
 
 ### 🛠️ Customization
 
