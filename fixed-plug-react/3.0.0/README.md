@@ -90,12 +90,7 @@ After running yarn build, deploy the contents of the dist folder to any static h
 *   [AWS S3](https://aws.amazon.com/s3/)
 *   [GitHub Pages](https://pages.github.com/)
 
-#### Browser Compatibility
-This theme is tested and compatible with the following browsers:
-*   Google Chrome
-*   Mozilla Firefox   
-*   Microsoft Edge    
-*   Safari 
+
 
 #### Source and Credit
 
