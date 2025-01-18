@@ -5,12 +5,12 @@ Firstly, a huge thanks for purchasing this theme, your support is truly apprecia
 
 This document covers the installation and use of this theme and often reveals answers to common problems and issues - read this document thoroughly if you are experiencing any difficulties. If you have any questions that are beyond the scope of this document, feel free to email at [suppot@ducor.net](mailto:__EMAIL__) Thank you so much!
 
-## 📂 File Structure
+### 📂 File Structure
 After unzipping the download package, you will find the following folders and files:
 *   **Fixed-piug-react Template**: An installable React.js template zip file.
 *   **Documentation Folder**: Contains this documentation you are reading now.
 
-## ⚙️ Basic Usage
+### ⚙️ Basic Usage
 
 1. After unzipping the download package, navigate to the `main` folder containing all files. 
 2.  You can open the template in any modern browser to view or edit it offline. However, some features like fonts and Google Maps might not work without an internet connection. 
@@ -20,7 +20,7 @@ After unzipping the download package, you will find the following folders and fi
 
 
 
-### ⚛️ Project Installation 
+#### ⚛️ Project Installation 
 Ensure that you have Node.js (v16 or higher) installed on your system. To verify your Node.js version, run the following command:
 ```bash
 node -v
@@ -69,7 +69,7 @@ yarn build
 ```
 This command compiles the application into optimized static files for deployment. The output will be in the `/dist` folder.
 
-### 🧹 Clean Up  
+#### 🧹 Clean Up  
 
 To remove the `node_modules` folder and clean your project, run:  
 ```bash
