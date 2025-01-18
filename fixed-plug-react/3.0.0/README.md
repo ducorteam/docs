@@ -53,7 +53,7 @@ yarn -v
  **Start Development Server:** This command starts the development server, enabling you to preview changes live in your browser. By 
      default, the server runs at `http://localhost:3000/`.
  ```bash
-    yarn dev
+    yarn run dev
   ```
 **Key Features of** `**yarn dev**`**:**
     
@@ -65,7 +65,7 @@ yarn -v
 
 To build the project for production, use the following command:
 ```bash
-yarn build
+yarn run build
 ```
 This command compiles the application into optimized static files for deployment. The output will be in the `/dist` folder.
 
@@ -73,7 +73,7 @@ This command compiles the application into optimized static files for deployment
 
 To remove the `node_modules` folder and clean your project, run:  
 ```bash
-yarn clean
+yarn run clean
 ```
 This helps free up disk space and resolve potential dependency issues by reinstalling fresh modules when needed.
 
