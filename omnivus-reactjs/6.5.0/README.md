@@ -45,7 +45,7 @@ yarn -v
  commands, so as to have full control over our developer experience and stability. 
  **Install Dependencies:**
  ```bash
-  yarn install
+  yarn
  ```
  **Start Development Server:** This command starts the development server, enabling you to preview changes live in your browser. By 
      default, the server runs at `http://localhost:3000/`.
