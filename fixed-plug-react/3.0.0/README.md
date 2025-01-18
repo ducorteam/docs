@@ -55,7 +55,7 @@ yarn -v
  ```bash
     yarn run dev
   ```
-**Key Features of** `**yarn dev**`**:**
+**Key Features of** `**yarn run dev**`**:**
     
  *   Watches for file changes and updates the browser in real-time.      
  *   Provides detailed error messages during development.
