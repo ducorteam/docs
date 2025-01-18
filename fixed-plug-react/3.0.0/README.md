@@ -77,25 +77,6 @@ yarn clean
 ```
 This helps free up disk space and resolve potential dependency issues by reinstalling fresh modules when needed.
 
-### 📧 Support  
-
-If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/ducor). 😊  
-
-#### Source and Credit
-
-- [@fortawesome](https://fontawesome.com/)
-- [Formik](https://formik.org/)
-- [React](https://reactjs.org/)
-- [React DOM](https://reactjs.org/)
-- [React Router DOM](https://reactrouter.com/)
-- [React Helmet Async](https://github.com/staylor/react-helmet-async)
-- [ApexCharts](https://apexcharts.com/)
-- [Chart.js](https://www.chartjs.org/)
-- [React ChartJS 2](https://react-chartjs-2.js.org/)
-- [SweetAlert2](https://sweetalert2.github.io/)
-- [React Toastify](https://fkhadra.github.io/react-toastify/)
-- [Styled Components](https://styled-components.com/)
-
  #### 🛠️ Additional Details
  *   **Hot Module Replacement (HMR):** Enabled during development for instant UI updates.
 *   **ESLint and Prettier Integration:** Helps maintain code quality and consistency. 
@@ -116,4 +97,23 @@ This theme is tested and compatible with the following browsers:
 *   Microsoft Edge    
 *   Safari
 
-  Thank you for choosing Fixed-Piug-React! We hope this theme meets your expectations and enhances your project. If you need further assistance, don't hesitate to reach out to us. Happy coding! 🌐
+  ### 📧 Support  
+  
+ Thank you for choosing Fixed-Piug-React! We hope this theme meets your expectations and enhances your project. If you need further assistance, don't hesitate to reach out to us. Happy coding! [Please Rate Us](https://themeforest.net/user/ducor). 😊  
+
+#### Source and Credit
+
+- [@fortawesome](https://fontawesome.com/)
+- [Formik](https://formik.org/)
+- [React](https://reactjs.org/)
+- [React DOM](https://reactjs.org/)
+- [React Router DOM](https://reactrouter.com/)
+- [React Helmet Async](https://github.com/staylor/react-helmet-async)
+- [ApexCharts](https://apexcharts.com/)
+- [Chart.js](https://www.chartjs.org/)
+- [React ChartJS 2](https://react-chartjs-2.js.org/)
+- [SweetAlert2](https://sweetalert2.github.io/)
+- [React Toastify](https://fkhadra.github.io/react-toastify/)
+- [Styled Components](https://styled-components.com/)
+
+ 
