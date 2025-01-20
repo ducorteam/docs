@@ -20,7 +20,7 @@ After unzipping the download package, you will find the following folders and fi
 
 
 
-#### ⚛️ Project Installation 
+#### Project Installation 
 Ensure that you have Node.js (v16 or higher) installed on your system. To verify your Node.js version, run the following command:
 ```bash
 node -v
@@ -69,7 +69,7 @@ yarn run build
 ```
 This command compiles the application into optimized static files for deployment. The output will be in the `/dist` folder.
 
-#### 🧹 Clean Up  
+####  Clean Up  
 
 To remove the `node_modules` folder and clean your project, run:  
 ```bash
@@ -77,7 +77,7 @@ yarn run clean
 ```
 This helps free up disk space and resolve potential dependency issues by reinstalling fresh modules when needed.
 
- #### 🛠️ Additional Details
+ ####  Additional Details
  *   **Hot Module Replacement (HMR):** Enabled during development for instant UI updates.
 *   **ESLint and Prettier Integration:** Helps maintain code quality and consistency. 
 *   **Environment Variables:** Use the `.env` file to manage API keys and other configurations.  
