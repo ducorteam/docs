@@ -29,7 +29,6 @@ yarn -v
    cd omnivus-nextjs
    ``` 
 3.  Run the following commands to set up the project:
-
   Yarn is an established open-source package manager used to manage dependencies in JavaScript projects. It assists with the process of 
   installing, updating, configuring, and removing packages dependencies, eventually helping you reach your objectives faster with fewer 
   distractions.
@@ -106,100 +105,61 @@ public/
 ####  Home 1 
 For **Home 1**, you can customize the following sections:
 - **Banner Image**: Modify `_banner.scss` located in `public\assets\scss\`.
-
   ![image](./banner-imgs.png)
-
 - **Services Section**: Edit `Index.jsx` in `components/LatestServicesPart/`.
-
   ![image](./service.png)
-
 - **Team Member Section**: Edit `Index.jsx` in `components/teamMemberPart/`.
-
   ![image](./team-member.png)
 
 - **Latest News Section**: Edit `Index.jsx` in `components/latestNewsPart/`.
-
   ![image](./news-blog.png)
 
 ####  Home 2 
-
 For **Home 2**, you can modify:
-
 - **Banner Image**: Edit `Index2.jsx` in `components/banner/`.
-
   ![image](./banner-img-2.png)
-
 - **Services Section**: Edit `Index.jsx` in `components/whatWeDoPart/`.
-
   ![image](./service-2.png)
-
 - **FAQ Section**: Edit `Index.jsx` in `components/answersPart/`.
-
   ![image](./faq-home-2.png)
-
 - **Latest News Section**: Edit `Index.jsx` in `components/latestNewsPart/`.
-
   ![image](./news-blog.png)
 
 ####  Service 
-
 On the **Service Page**, you can customize:
-
 - **Service Item Section**: Edit `Index.jsx` in `components/servicesItemPart/`.
-
   ![image](./service-item.png)
-
 - **Service Plans Section**: Edit `ServicesPlansPart.jsx` in `components/servicesPart/`.
-
   ![image](./service-plan.png)
 
 ####  Case Study 
-
 To edit the **Case Study Page**, update `page.js` located in `src\app\(pages)\(others)\case-study/`.
-
 ![image](./case-stydy.png)
 
 ####  Team
-
 To edit the **Team Page**, update `page.js` located in `src\app\(pages)\(others)\team`.
-
 ![image](./team-page.png)
 
-
 ####  blog-standard
-
-- **Blog**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
-  
+- **Blog**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`. 
 ![image](./blog.png)
-
-- **Popular-feed**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
-  
+- **Popular-feed**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`. 
 ![image](./popular-feed.png)
-
-- **Categories**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
-  
+- **Categories**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.  
 ![image](./categories.png)
-
-- **Tags**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`.
-  
+- **Tags**: Edit `BlogSideBar.jsx` in `src\app\componets\blog\`. 
 ![image](./tags.png)
 
 ####  blog-grid
-
 - **Blogs**: Edit `page.js` in `src\app\(pages)\(others)\(blog)\blog-grid\`.
-  
 ![image](./blogs.png)
 
 ####  Shop
-
-- **Shop**: Edit `page.js` in `src\app\(pages)\(others)\shop\`.
-  
+- **Shop**: Edit `page.js` in `src\app\(pages)\(others)\shop\`. 
 ![image](./products.png)
 
 ####  Product
-
-- **Product**: Edit `page.js` in `src\app\(pages)\(others)\products\`.
-  
+- **Product**: Edit `page.js` in `src\app\(pages)\(others)\products\`.  
 ![image](./product.png)
 
 ### 🏗️ Build for Production
@@ -213,9 +173,8 @@ After running yarn run build, deploy the contents of the `/dist` folder to any s
 *   [Vercel](https://vercel.com/)
 *   [AWS S3](https://aws.amazon.com/s3/)
 *   [GitHub Pages](https://pages.github.com/)
-
+*   
 #### Source and Credit
-
 - [@fortawesome](https://fontawesome.com/)  
 - [Animate.css](https://github.com/animate-css/animate.css)  
 - [Axios](https://github.com/axios/axios)  
@@ -228,9 +187,7 @@ After running yarn run build, deploy the contents of the `/dist` folder to any s
 - [React Modal Video](https://github.com/appleple/react-modal-video)  
 - [React Slick](https://github.com/akiran/react-slick)  
 - [React Toastify](https://github.com/fkhadra/react-toastify)
-
-
-
+- 
 ### 📧 Support  
   
 Thank you for choosing Fixed-Piug-React! We hope this theme meets your expectations and enhances your project. If you need further assistance, don't hesitate to reach out to us. Happy coding! [Please Rate Us](https://themeforest.net/user/ducor). 😊 
