@@ -179,7 +179,7 @@ To build the project for production, use:
 yarn build
 ```
 
-### 🧹 Clean Up  
+#### 🧹 Clean Up  
 
 To remove the `node_modules` folder and clean your project, run:  
 
