@@ -60,7 +60,7 @@ yarn -v
 
 ### 🛠️ Customization  
 
-### Title and Favicon  
+#### Title and Favicon  
 
 To change the site title, open the project in your editor and follow this screenshot:  
 
