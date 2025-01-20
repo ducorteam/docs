@@ -35,15 +35,13 @@ yarn -v
 ```
 1.  Open your terminal or command prompt.
 2.  Navigate to the project folder.
-   ```bash
+```plaintext
    cd fixed-piug-react
    ``` 
 3.  Run the following commands to set up the project:
-
   Yarn is an established open-source package manager used to manage dependencies in JavaScript projects. It assists with the process of 
   installing, updating, configuring, and removing packages dependencies, eventually helping you reach your objectives faster with fewer 
   distractions.
-
  > **Note**: Unlike most other package managers, which typically defer to npm for non-install-related commands, Yarn reimplements all 
  commands, so as to have full control over our developer experience and stability. 
  **Install Dependencies:**
@@ -56,27 +54,21 @@ yarn -v
     yarn run dev
   ```
 **Key Features of** `**yarn run dev**`**:**
-    
  *   Watches for file changes and updates the browser in real-time.      
  *   Provides detailed error messages during development.
  *   Optimized for fast feedback and iteration.
-
 ### 🏗️ Build for Production  
-
 To build the project for production, use the following command:
 ```bash
 yarn run build
 ```
 This command compiles the application into optimized static files for deployment. The output will be in the `/dist` folder.
-
 ####  Clean Up  
-
 To remove the `node_modules` folder and clean your project, run:  
 ```bash
 yarn run clean
 ```
 This helps free up disk space and resolve potential dependency issues by reinstalling fresh modules when needed.
-
  ####  Additional Details
  *   **Hot Module Replacement (HMR):** Enabled during development for instant UI updates.
 *   **ESLint and Prettier Integration:** Helps maintain code quality and consistency. 
@@ -84,7 +76,7 @@ This helps free up disk space and resolve potential dependency issues by reinsta
 *   **Component Reusability:** This theme follows a modular approach, making components easy to reuse and extend.
 
  #### Deployment
-After running yarn build, deploy the contents of the dist folder to any static hosting provider, such as:
+After running yarn run build, deploy the contents of the `/dist` folder to any static hosting provider, such as:
 *   [Netlify](https://www.netlify.com/)
 *   [Vercel](https://vercel.com/)
 *   [AWS S3](https://aws.amazon.com/s3/)
