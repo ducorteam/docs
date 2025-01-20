@@ -186,8 +186,7 @@ After running yarn run build, deploy the contents of the `/dist` folder to any s
 - [React Icons](https://github.com/react-icons/react-icons)  
 - [React Modal Video](https://github.com/appleple/react-modal-video)  
 - [React Slick](https://github.com/akiran/react-slick)  
-- [React Toastify](https://github.com/fkhadra/react-toastify)
-- 
+- [React Toastify](https://github.com/fkhadra/react-toastify) 
 ### 📧 Support  
   
 Thank you for choosing Fixed-Piug-React! We hope this theme meets your expectations and enhances your project. If you need further assistance, don't hesitate to reach out to us. Happy coding! [Please Rate Us](https://themeforest.net/user/ducor). 😊 
