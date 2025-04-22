@@ -1,6 +1,6 @@
 # RuEdu Admin Dashboard
 
-![RuEdu Admin Preview](./RuEdu.png)
+![RuEdu Admin Preview](../RuEdu.png)
 
 A modern admin dashboard template built with Vite, React, TypeScript, and Ducor UI components.
 
