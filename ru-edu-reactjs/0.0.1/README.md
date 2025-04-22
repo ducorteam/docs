@@ -35,15 +35,52 @@ yarn dev
 - **Code splitting** for optimized loading
 - **Production-ready** builds with minification
 
-### 🎨 UI Components
-```bash
-@ducor/react components included:
-- Table
-- Charts
-- Form Elements
-- Notification System
-- Modal Dialogs
-- Customizable Cards ...
+## 🎨 Available UI Components
+
+### 📦 Layout Components
+- **`ScrollArea`** - Custom scrollable container
+- **`Container`** - Responsive layout wrapper
+- **`Box`** - Flexible layout primitive
+- **`Flex`** - Flexbox container
+- **`Grid`** - CSS Grid layout
+
+### 🔘 Interactive Elements
+- **`Button`** - Clickable action element
+- **`Disclosure`** - Collapsible content area
+- **`Dropdown`** - Contextual menu
+- **`Drawer`** - Slide-out panel
+- **`TreeView`** - Hierarchical data display
+
+### 🖼️ Display Components
+- **`Typography`** - Text styling system
+- **`Avatar`** - User/profile image display
+- **`Badge`** - Status indicator
+- **`Card`** - Content container with shadow
+- **`Alert`** - Notification message box
+- **`Kbd`** - Keyboard key styling
+- **`Divider`** - Visual separator line
+
+### ⚙️ Utility Components
+- **`DevMode`** - Development helpers
+- **`Loading`** - Activity indicator
+
+  ## 💻 Basic Usage
+```jsx
+import { Button, Card, Alert } from '@ducor/react';
+
+function App() {
+  return (
+  Card color="default" variant="solid">
+  <Card.Header>
+    <Card.Title>default - solid Card</Card.Title>
+  </Card.Header>
+  <Card.Body>
+    Card content goes here
+  </Card.Body>
+  <Card.Footer>Card Footer</Card.Footer>
+</Card>
+  );
+}
 ```
 
 ## 🛠️ Available Hooks
@@ -64,4 +101,21 @@ yarn dev
 - **`useUuid`** - Generate unique IDs
 - **`useWindowEvent`** - Add window event listeners
 
-  
+ ```jsx
+import { useBoolean } from '@ducor/hooks';
+
+function ToggleComponent() {
+  const [flag, { on, off, toggle }] = useBoolean(false);
+
+  return (
+    <div>
+      <p>Current state: {String(flag)}</p>
+      <div className="button-group">
+        <button onClick={on}>Turn On</button>
+        <button onClick={off}>Turn Off</button>
+        <button onClick={toggle}>Toggle</button>
+      </div>
+    </div>
+  );
+}
+``` 
