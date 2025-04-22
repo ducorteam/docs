@@ -3,7 +3,7 @@
 
 A modern admin dashboard template built with Vite, React, TypeScript, and Ducor UI components.
 
-![RuEdu Admin Preview](../RuEdu.png)
+![RuEdu Admin Preview](../ruedu.png)
 
 Firstly, a huge thanks for purchasing this theme, your support is truly appreciated!
 
@@ -27,13 +27,13 @@ Ensure that you have Node.js (v16 or higher) installed on your system. To verify
 ```bash
 node -v
 ```
-You also need Yarn installed globally. If you do not have Yarn, install it using the following command:
+You also need pnpm installed globally. If you do not have pnpm, install it using the following command:
 ```bash
-npm install -g yarn
+pnpm install -g pnpm
 ```
 Verify Yarn installation with:
 ```bash
-yarn -v
+pnpm -v
 ```
 1.  Open your terminal or command prompt.
 2.  Navigate to the project folder.
@@ -46,16 +46,16 @@ yarn -v
   installing, updating, configuring, and removing packages dependencies, eventually helping you reach your objectives faster with fewer 
   distractions.
 
- > **Note**: Unlike most other package managers, which typically defer to npm for non-install-related commands, Yarn reimplements all 
+ > **Note**: Unlike most other package managers, which typically defer to pnpm for non-install-related commands, pnpm reimplements all 
  commands, so as to have full control over our developer experience and stability. 
  **Install Dependencies:**
  ```bash
- npm install
+ pnpm install
  ```
  **Start Development Server:** This command starts the development server, enabling you to preview changes live in your browser. By 
      default, the server runs at `http://localhost:3000/`.
  ```bash
-    npm run dev
+    pnpm run dev
   ```
 
 ####  Performance
@@ -63,98 +63,13 @@ yarn -v
 - **Code splitting** for optimized loading
 - **Production-ready** builds with minification
 
-###  Available UI Components
-
-####  Layout Components
-- **`ScrollArea`** - Custom scrollable container
-- **`Container`** - Responsive layout wrapper
-- **`Box`** - Flexible layout primitive
-- **`Flex`** - Flexbox container
-- **`Grid`** - CSS Grid layout
-
-####  Interactive Elements
-- **`Button`** - Clickable action element
-- **`Disclosure`** - Collapsible content area
-- **`Dropdown`** - Contextual menu
-- **`Drawer`** - Slide-out panel
-- **`TreeView`** - Hierarchical data display
-
-####  Display Components
-- **`Typography`** - Text styling system
-- **`Avatar`** - User/profile image display
-- **`Badge`** - Status indicator
-- **`Card`** - Content container with shadow
-- **`Alert`** - Notification message box
-- **`Kbd`** - Keyboard key styling
-- **`Divider`** - Visual separator line
-
-####  Utility Components
-- **`Loading`** - Activity indicator
-
-  ###  Basic Usage
-```jsx
-import { Button, Card, Alert } from '@ducor/react';
-
-function App() {
-  return (
-  Card color="default" variant="solid">
-  <Card.Header>
-    <Card.Title>default - solid Card</Card.Title>
-  </Card.Header>
-  <Card.Body>
-    Card content goes here
-  </Card.Body>
-  <Card.Footer>Card Footer</Card.Footer>
-</Card>
-  );
-}
-```
-
-###  Available Hooks
-
-- **`useBoolean`** - Toggle true/false state
-- **`useClipboard`** - Copy text to clipboard
-- **`useElementSize`** - Track element dimensions
-- **`useFullscreen`** - Toggle fullscreen mode
-- **`useHover`** - Detect element hover
-- **`useIdle`** - Detect user inactivity
-- **`useInterval`** - Run code at intervals
-- **`useOutsideClick`** - Detect clicks outside element
-- **`usePlacement`** - Calculate element positioning
-- **`useProcessing`** - Manage loading states
-- **`useScroll`** - Track scroll position
-- **`useTimeout`** - Execute delayed callbacks
-- **`useUnmountEffect`** - Cleanup on unmount
-- **`useUuid`** - Generate unique IDs
-- **`useWindowEvent`** - Add window event listeners
-
- ```jsx
-import { useBoolean } from '@ducor/hooks';
-
-function ToggleComponent() {
-  const [flag, { on, off, toggle }] = useBoolean(false);
-
-  return (
-    <div>
-      <p>Current state: {String(flag)}</p>
-      <div className="button-group">
-        <button onClick={on}>Turn On</button>
-        <button onClick={off}>Turn Off</button>
-        <button onClick={toggle}>Toggle</button>
-      </div>
-    </div>
-  );
-}
-```
-
-
 
 ###  Build for Production  
 
 To build the project for production, use:  
 
 ```bash
-npm run build
+pnpm run build
 ```
 
 ####  Clean Up  
@@ -162,7 +77,7 @@ npm run build
 To remove the `node_modules` folder and clean your project, run:  
 
 ```bash
-npm run clean
+pnpm run clean
 ```
 
 ###  Support  
