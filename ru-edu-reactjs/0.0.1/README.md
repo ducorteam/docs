@@ -6,7 +6,7 @@ A modern admin dashboard template built with Vite, React, TypeScript, and Ducor 
 
 ## 🚀 Quick Start
 
-### 1. Create New Project
+### Create New Project
 Run the following command to generate a new admin dashboard:
 
 ```bash
@@ -61,7 +61,6 @@ yarn dev
 - **`Divider`** - Visual separator line
 
 ### ⚙️ Utility Components
-- **`DevMode`** - Development helpers
 - **`Loading`** - Activity indicator
 
   ## 💻 Basic Usage
@@ -119,3 +118,41 @@ function ToggleComponent() {
   );
 }
 ``` 
+## 📚 Sources & Credits
+
+### Core Libraries
+- [React](https://react.dev) - JavaScript library for building user interfaces
+- [Tailwind CSS](https://tailwindcss.com) - Utility-first CSS framework
+- [Axios](https://axios-http.com) - Promise-based HTTP client
+- [React Router](https://reactrouter.com) - Client-side routing
+
+### UI Components
+- [Ducor UI](https://ducorui.com) - Internal component library (`@ducor/react`, `@ducor/hooks`, `@ducor/form`)
+- [Headless UI](https://headlessui.com) - Unstyled accessible components
+- [React Icons](https://react-icons.github.io/react-icons) - Icon library
+- [Sonner](https://sonner.emilkowal.ski) - Toast notifications
+
+### Data Visualization
+- [Chart.js](https://www.chartjs.org) + [React ChartJS 2](https://react-chartjs-2.js.org) - Interactive charts
+- [Recharts](https://recharts.org) - Composible charting library
+
+### Calendar
+- [FullCalendar](https://fullcalendar.io) - Full-featured calendar system
+
+### Utilities
+- [Tailwind Plugins](https://tailwindcss.com/docs/plugins) - Official Tailwind extensions:
+  - `@tailwindcss/forms`
+  - `@tailwindcss/typography`
+  - `@tailwindcss/aspect-ratio`
+  - `@tailwindcss/container-queries`
+- [Tailwind Merge](https://github.com/dcastil/tailwind-merge) - Conditional Tailwind class merging
+
+### Internationalization
+- [React i18next](https://react.i18next.com) - Internationalization framework
+
+### Development Tools
+- [Prettier](https://prettier.io) - Code formatter
+- [Prop Types](https://github.com/facebook/prop-types) - Runtime type checking
+
+## 📜 License
+All third-party libraries are used under their respective open-source licenses.
