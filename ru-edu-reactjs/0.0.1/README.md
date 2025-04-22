@@ -1,34 +1,62 @@
 # RuEdu Admin Dashboard
 
-![RuEdu Admin Preview](../RuEdu.png)
 
 A modern admin dashboard template built with Vite, React, TypeScript, and Ducor UI components.
 
-##@ 🚀 Quick Start
+![RuEdu Admin Preview](../RuEdu.png)
 
-#### Create New Project
-Run the following command to generate a new admin dashboard:
+Firstly, a huge thanks for purchasing this theme, your support is truly appreciated!
 
+This document covers the installation and use of this theme and often reveals answers to common problems and issues - read this document thoroughly if you are experiencing any difficulties. If you have any questions that are beyond the scope of this document, feel free to email at [suppot@ducor.net](mailto:__EMAIL__) Thank you so much!
+
+## Basic
+
+1.  After unzip the download pack, you'll found a Template Folder with all the files.
+2.  You can view this Template in any browser, you can display or edit the Template without an internet connection.(May not wotrk fonts and google map).
+3.  This section that will not work is the Contact Section
+
+- **RuEdu Template**: An installable React.js template zip file.
+- **Documentation Folder**: Contains this documentation you are reading now.
+
+Here’s an overview of the included files:
+
+![image]()  
+
+#### ⚛️ Project Installation 
+Ensure that you have Node.js (v16 or higher) installed on your system. To verify your Node.js version, run the following command:
 ```bash
-ducor admin:vite-react-ts
-cd vite-react-ts
+node -v
 ```
-
-####  Install Dependencies
+You also need Yarn installed globally. If you do not have Yarn, install it using the following command:
 ```bash
-npm install
-# or
-yarn install
+npm install -g yarn
 ```
-
-#### Start Development Server
+Verify Yarn installation with:
 ```bash
-npm run dev
-# or
-yarn dev
+yarn -v
 ```
+1.  Open your terminal or command prompt.
+2.  Navigate to the project folder.
+   ```bash
+   cd ru-edu
+   ``` 
+3.  Run the following commands to set up the project:
 
-### ✨ Key Features
+  Yarn is an established open-source package manager used to manage dependencies in JavaScript projects. It assists with the process of 
+  installing, updating, configuring, and removing packages dependencies, eventually helping you reach your objectives faster with fewer 
+  distractions.
+
+ > **Note**: Unlike most other package managers, which typically defer to npm for non-install-related commands, Yarn reimplements all 
+ commands, so as to have full control over our developer experience and stability. 
+ **Install Dependencies:**
+ ```bash
+ npm install
+ ```
+ **Start Development Server:** This command starts the development server, enabling you to preview changes live in your browser. By 
+     default, the server runs at `http://localhost:3000/`.
+ ```bash
+    npm run dev
+  ```
 
 #### ⚡ Performance
 - **Vite-powered** for instant hot module replacement
@@ -117,7 +145,30 @@ function ToggleComponent() {
     </div>
   );
 }
-``` 
+```
+
+
+
+###  Build for Production  
+
+To build the project for production, use:  
+
+```bash
+npm run build
+```
+
+####  Clean Up  
+
+To remove the `node_modules` folder and clean your project, run:  
+
+```bash
+npm run clean
+```
+
+###  Support  
+
+If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/ducor). 😊  
+
 ### 📚 Sources & Credits
 
 #### Core Libraries
