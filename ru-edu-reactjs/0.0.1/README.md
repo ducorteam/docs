@@ -22,7 +22,7 @@ Here’s an overview of the included files:
 
 ![image]()  
 
-#### ⚛️ Project Installation 
+####  Project Installation 
 Ensure that you have Node.js (v16 or higher) installed on your system. To verify your Node.js version, run the following command:
 ```bash
 node -v
@@ -58,28 +58,28 @@ yarn -v
     npm run dev
   ```
 
-#### ⚡ Performance
+####  Performance
 - **Vite-powered** for instant hot module replacement
 - **Code splitting** for optimized loading
 - **Production-ready** builds with minification
 
-### 🎨 Available UI Components
+###  Available UI Components
 
-#### 📦 Layout Components
+####  Layout Components
 - **`ScrollArea`** - Custom scrollable container
 - **`Container`** - Responsive layout wrapper
 - **`Box`** - Flexible layout primitive
 - **`Flex`** - Flexbox container
 - **`Grid`** - CSS Grid layout
 
-#### 🔘 Interactive Elements
+####  Interactive Elements
 - **`Button`** - Clickable action element
 - **`Disclosure`** - Collapsible content area
 - **`Dropdown`** - Contextual menu
 - **`Drawer`** - Slide-out panel
 - **`TreeView`** - Hierarchical data display
 
-#### 🖼️ Display Components
+####  Display Components
 - **`Typography`** - Text styling system
 - **`Avatar`** - User/profile image display
 - **`Badge`** - Status indicator
@@ -88,10 +88,10 @@ yarn -v
 - **`Kbd`** - Keyboard key styling
 - **`Divider`** - Visual separator line
 
-#### ⚙️ Utility Components
+####  Utility Components
 - **`Loading`** - Activity indicator
 
-  ### 💻 Basic Usage
+  ###  Basic Usage
 ```jsx
 import { Button, Card, Alert } from '@ducor/react';
 
@@ -110,7 +110,7 @@ function App() {
 }
 ```
 
-### 🛠️ Available Hooks
+###  Available Hooks
 
 - **`useBoolean`** - Toggle true/false state
 - **`useClipboard`** - Copy text to clipboard
@@ -169,7 +169,7 @@ npm run clean
 
 If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/ducor). 😊  
 
-### 📚 Sources & Credits
+###  Sources & Credits
 
 #### Core Libraries
 - [React](https://react.dev) - JavaScript library for building user interfaces
