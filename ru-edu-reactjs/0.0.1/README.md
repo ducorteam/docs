@@ -1,4 +1,4 @@
-# Ducor Admin Dashboard
+# RuEdu Admin Dashboard
 
 ![RuEdu Admin Preview]()
 
