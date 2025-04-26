@@ -23,11 +23,22 @@ Here’s an overview of the included files:
 ![image]()  
 
 ####  Project Installation 
+Before running the project, you need to install a few essential tools:
+
+1. Node.js is a JavaScript runtime that allows you to run JavaScript code outside of a web browser. Since our project uses JavaScript, Node.js is required to build and run the application.
+
+- 🔗 **Download Node.js:** [https://nodejs.org](https://nodejs.org)
+- Node.js comes with npm (Node Package Manager) pre-installed.
+
 Ensure that you have Node.js (v16 or higher) installed on your system. To verify your Node.js version, run the following command:
 ```bash
 node -v
+npm -v
 ```
-You also need pnpm installed globally. If you do not have pnpm, install it using the following command:
+2. pnpm is a fast and efficient package manager for Node.js projects. It manages and installs libraries your project depends on. pnpm is more performant and disk space-saving compared to npm or yarn.
+
+
+- Once you have Node.js and npm installed, You also need pnpm installed globally. If you do not have pnpm,Install pnpm globally using npm: 
 ```bash
 pnpm install -g pnpm
 ```
@@ -42,12 +53,10 @@ pnpm -v
    ``` 
 3.  Run the following commands to set up the project:
 
-  Yarn is an established open-source package manager used to manage dependencies in JavaScript projects. It assists with the process of 
-  installing, updating, configuring, and removing packages dependencies, eventually helping you reach your objectives faster with fewer 
-  distractions.
+`pnpm` is a fast and disk space-efficient package manager for managing dependencies in JavaScript projects. It helps with installing, updating, configuring, and removing dependencies, allowing you to reach your goals more quickly and with fewer distractions.
 
- > **Note**: Unlike most other package managers, which typically defer to pnpm for non-install-related commands, pnpm reimplements all 
- commands, so as to have full control over our developer experience and stability. 
+> **Note**: Unlike most other package managers that delegate non-install-related commands to other tools, `pnpm` reimplements all commands to have full control over the developer experience and stability.
+
  **Install Dependencies:**
  ```bash
  pnpm install
@@ -57,6 +66,14 @@ pnpm -v
  ```bash
     pnpm run dev
   ```
+### Add a New Package with `pnpm`
+
+To add a new package to your project, use the following command:
+
+```bash
+pnpm add <package-name>
+
+```
 
 ####  Performance
 - **Vite-powered** for instant hot module replacement
