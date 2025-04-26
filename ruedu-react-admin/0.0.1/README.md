@@ -101,41 +101,41 @@ pnpm run clean
 
 If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/ducor). 😊  
 
-###  Sources & Credits
+# Sources & Credits
 
-#### Core Libraries
-- [React](https://react.dev) - JavaScript library for building user interfaces
-- [Tailwind CSS](https://tailwindcss.com) - Utility-first CSS framework
-- [Axios](https://axios-http.com) - Promise-based HTTP client
-- [React Router](https://reactrouter.com) - Client-side routing
+## Core Libraries
+- [React](https://react.dev)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Axios](https://axios-http.com)
+- [React Router](https://reactrouter.com)
 
-#### UI Components
-- [Ducor UI](https://ducorui.com) - Internal component library (`@ducor/react`, `@ducor/hooks`, `@ducor/form`)
-- [Headless UI](https://headlessui.com) - Unstyled accessible components
-- [React Icons](https://react-icons.github.io/react-icons) - Icon library
-- [Sonner](https://sonner.emilkowal.ski) - Toast notifications
+## UI Components
+- [Ducor UI](https://ducorui.com) (`@ducor/react`, `@ducor/hooks`, `@ducor/form`)
+- [Headless UI](https://headlessui.com)
+- [React Icons](https://react-icons.github.io/react-icons)
+- [Sonner](https://sonner.emilkowal.ski)
 
-#### Data Visualization
-- [Chart.js](https://www.chartjs.org) + [React ChartJS 2](https://react-chartjs-2.js.org) - Interactive charts
-- [Recharts](https://recharts.org) - Composible charting library
+## Data Visualization
+- [Chart.js](https://www.chartjs.org) + [React ChartJS 2](https://react-chartjs-2.js.org)
+- [Recharts](https://recharts.org)
 
-#### Calendar
-- [FullCalendar](https://fullcalendar.io) - Full-featured calendar system
+## Calendar
+- [FullCalendar](https://fullcalendar.io)
 
-##3# Utilities
-- [Tailwind Plugins](https://tailwindcss.com/docs/plugins) - Official Tailwind extensions:
+## Utilities
+- [Tailwind Plugins](https://tailwindcss.com/docs/plugins):
   - `@tailwindcss/forms`
   - `@tailwindcss/typography`
   - `@tailwindcss/aspect-ratio`
   - `@tailwindcss/container-queries`
-- [Tailwind Merge](https://github.com/dcastil/tailwind-merge) - Conditional Tailwind class merging
+- [Tailwind Merge](https://github.com/dcastil/tailwind-merge)
 
-#@## Internationalization
-- [React i18next](https://react.i18next.com) - Internationalization framework
+## Internationalization
+- [React i18next](https://react.i18next.com)
 
-##@# Development Tools
-- [Prettier](https://prettier.io) - Code formatter
-- [Prop Types](https://github.com/facebook/prop-types) - Runtime type checking
+## Development Tools
+- [Prettier](https://prettier.io)
+- [Prop Types](https://github.com/facebook/prop-types)
 
 #@# 📜 License
 All third-party libraries are used under their respective open-source licenses.
