@@ -103,39 +103,24 @@ If you enjoy using our product, [Please Rate Us](https://themeforest.net/user/du
 
 # Sources & Credits
 
-## Core Libraries
 - [React](https://react.dev)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Axios](https://axios-http.com)
 - [React Router](https://reactrouter.com)
-
-## UI Components
-- [Ducor UI](https://ducorui.com) (`@ducor/react`, `@ducor/hooks`, `@ducor/form`)
 - [Headless UI](https://headlessui.com)
 - [React Icons](https://react-icons.github.io/react-icons)
 - [Sonner](https://sonner.emilkowal.ski)
-
-## Data Visualization
 - [Chart.js](https://www.chartjs.org) + [React ChartJS 2](https://react-chartjs-2.js.org)
 - [Recharts](https://recharts.org)
-
-## Calendar
 - [FullCalendar](https://fullcalendar.io)
-
-## Utilities
 - [Tailwind Plugins](https://tailwindcss.com/docs/plugins):
   - `@tailwindcss/forms`
   - `@tailwindcss/typography`
   - `@tailwindcss/aspect-ratio`
   - `@tailwindcss/container-queries`
 - [Tailwind Merge](https://github.com/dcastil/tailwind-merge)
-
-## Internationalization
 - [React i18next](https://react.i18next.com)
-
-## Development Tools
 - [Prettier](https://prettier.io)
 - [Prop Types](https://github.com/facebook/prop-types)
 
-#@# 📜 License
-All third-party libraries are used under their respective open-source licenses.
+
