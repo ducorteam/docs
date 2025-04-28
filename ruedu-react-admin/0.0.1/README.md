@@ -9,7 +9,7 @@ Firstly, a huge thanks for purchasing this theme, your support is truly apprecia
 
 This document covers the installation and use of this theme and often reveals answers to common problems and issues - read this document thoroughly if you are experiencing any difficulties. If you have any questions that are beyond the scope of this document, feel free to email at [suppot@ducor.net](mailto:__EMAIL__) Thank you so much!
 
-## Basic
+#### Basic
 
 1.  After unzip the download pack, you'll found a Template Folder with all the files.
 2.  You can view this Template in any browser, you can display or edit the Template without an internet connection.(May not wotrk fonts and google map).
@@ -22,7 +22,7 @@ Here’s an overview of the included files:
 
 ![image]()  
 
-####  Project Installation 
+###  Project Installation 
 Before running the project, you need to install a few essential tools:
 
 1. Node.js is a JavaScript runtime that allows you to run JavaScript code outside of a web browser. Since our project uses JavaScript, Node.js is required to build and run the application.
