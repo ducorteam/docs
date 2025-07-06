@@ -83,6 +83,26 @@ pnpm add <package-name>
 
 ## Customizer
 
+Use the layout customizer to:
+
+- Choose between `Light`, `Dark` themes
+- Switch between layout **direction**: `ltr` (Left-to-Right) or `rtl` (Right-to-Left)
+- Set **header position**: `fixed` or `static`
+- Choose **sidebar type**: `mini`, `full`, or `compact`
+- Change **sidebar position**: `fixed` or `static`
+
+  
+![image](./layout-customizer.png)
+
+- **Sidebar Colors**: Select sidebar color options to match your style
+- **Global Fonts**: Change the font family for the **entire website** with just a click
+
+
+![image](./color-font-customizer.png)
+
+These powerful tools help you design a fully personalized and professional interface in minutes.
+
+##### If you want to remove customizer from whole template, Just you need to remove ducor > src > provider > admin.tsx in  <Customizer /> component
 
 ###  Build for Production  
 
