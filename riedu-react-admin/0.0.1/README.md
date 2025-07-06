@@ -1,9 +1,9 @@
-# RuEdu Admin Dashboard
+# RiEduAdmin Admin Dashboard
 
 
-A modern admin dashboard template built with Vite, React, TypeScript, and Ducor UI components.
+A modern admin dashboard template built with Vite, React, TypeScript.
 
-![RuEdu Admin Preview](../ruedu.png)
+![RiEdu Admin Preview](../ruedu.png)
 
 Firstly, a huge thanks for purchasing this theme, your support is truly appreciated!
 
@@ -15,7 +15,7 @@ This document covers the installation and use of this theme and often reveals an
 2.  You can view this Template in any browser, you can display or edit the Template without an internet connection.(May not wotrk fonts and google map).
 3.  This section that will not work is the Contact Section
 
-- **RuEdu Template**: An installable React.js template zip file.
+- **RiEduAdmin Template**: An installable React.js template zip file.
 - **Documentation Folder**: Contains this documentation you are reading now.
 
 Here’s an overview of the included files:
