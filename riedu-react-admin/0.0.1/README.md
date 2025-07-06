@@ -3,7 +3,7 @@
 
 A modern admin dashboard template built with Vite, React, TypeScript.
 
-![RiEdu Admin Preview](../riedu.png)
+![RiEdu Admin Preview](./initial-view.png)
 
 Firstly, a huge thanks for purchasing this theme, your support is truly appreciated!
 
