@@ -3,40 +3,38 @@
 
 A modern admin dashboard template built with Vite, React, TypeScript.
 
-![RiEdu Admin Preview](./initial-view.png)
+## Getting Started
 
 Firstly, a huge thanks for purchasing this theme, your support is truly appreciated!
 
 This document covers the installation and use of this theme and often reveals answers to common problems and issues - read this document thoroughly if you are experiencing any difficulties. If you have any questions that are beyond the scope of this document, feel free to email at [suppot@ducor.net](mailto:__EMAIL__) Thank you so much!
 
-#### Basic
+### Main Dependencies
+- [React](https://reactjs.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [TypeScript](https://www.typescriptlang.org)
 
-1.  After unzip the download pack, you'll found a Template Folder with all the files.
-2.  You can view this Template in any browser, you can display or edit the Template without an internet connection.(May not wotrk fonts and google map).
-3.  This section that will not work is the Contact Section
+## Prerequisites
 
-- **RiEduAdmin Template**: An installable React.js template zip file.
-- **Documentation Folder**: Contains this documentation you are reading now.
+Before you begin, make sure your development environment includes the following:
 
-Here’s an overview of the included files:
+### 1 . [Node Js](https://nodejs.org)
+Node.js is a JavaScript runtime that allows you to run JavaScript code outside of a web browser. Since our project uses JavaScript, Node.js is required to build and run the application.
 
-![image]()  
+Install Node.js using downloaded file.
 
-###  Project Installation 
-Before running the project, you need to install a few essential tools:
-
-1. Node.js is a JavaScript runtime that allows you to run JavaScript code outside of a web browser. Since our project uses JavaScript, Node.js is required to build and run the application.
-
-- 🔗 **Download Node.js:** [https://nodejs.org](https://nodejs.org)
-- Node.js comes with npm (Node Package Manager) pre-installed.
-
-Ensure that you have Node.js (v16 or higher) installed on your system. To verify your Node.js version, run the following command:
-```bash
-node -v
+To check your node version, run node -v in a terminal/console window & Ensure that you have Node.js (v16 or higher)
+  ```bash
+  node -v
 npm -v
-```
-2. pnpm is a fast and efficient package manager for Node.js projects. It manages and installs libraries your project depends on. pnpm is more performant and disk space-saving compared to npm or yarn.
+  ```
 
+### 2 .[pnpm](https://pnpm.io)
+pnpm is a fast and efficient package manager for Node.js projects. It manages and installs libraries your project depends on. pnpm is more performant and disk space-saving compared to npm or yarn.
+
+`pnpm` is a fast and disk space-efficient package manager for managing dependencies in JavaScript projects. It helps with installing, updating, configuring, and removing dependencies, allowing you to reach your goals more quickly and with fewer distractions.
+
+> **Note**: Unlike most other package managers that delegate non-install-related commands to other tools, `pnpm` reimplements all commands to have full control over the developer experience and stability.
 
 - Once you have Node.js and npm installed, You also need pnpm installed globally. If you do not have pnpm,Install pnpm globally using npm: 
 ```bash
@@ -46,16 +44,24 @@ Verify Yarn installation with:
 ```bash
 pnpm -v
 ```
+For better understanding Vue we suggest you to once go through official documentation of Pnpm from [pnpm.io](https://pnpm.io)
+
+#### Basic
+
+1.  After unzip the download pack, you'll found a Template Folder with all the files.
+- **RiEduAdmin Template**: An installable React.js template zip file.
+- **Documentation Folder**: Contains this documentation you are reading now.
+
+
+###  Project Installation 
+Before running the project, you need to install a few essential tools:
+
 1.  Open your terminal or command prompt.
 2.  Navigate to the project folder.
    ```bash
-   cd ru-edu
+   cd riedu
    ``` 
 3.  Run the following commands to set up the project:
-
-`pnpm` is a fast and disk space-efficient package manager for managing dependencies in JavaScript projects. It helps with installing, updating, configuring, and removing dependencies, allowing you to reach your goals more quickly and with fewer distractions.
-
-> **Note**: Unlike most other package managers that delegate non-install-related commands to other tools, `pnpm` reimplements all commands to have full control over the developer experience and stability.
 
  **Install Dependencies:**
  ```bash
@@ -75,10 +81,7 @@ pnpm add <package-name>
 
 ```
 
-####  Performance
-- **Vite-powered** for instant hot module replacement
-- **Code splitting** for optimized loading
-- **Production-ready** builds with minification
+## Customizer
 
 
 ###  Build for Production  
