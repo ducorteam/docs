@@ -3,23 +3,23 @@
 
 A modern admin dashboard template built with Vite, React, TypeScript.
 
-## Getting Started
+### Getting Started
 
 Firstly, a huge thanks for purchasing this theme, your support is truly appreciated!
 
 This document covers the installation and use of this theme and often reveals answers to common problems and issues - read this document thoroughly if you are experiencing any difficulties. If you have any questions that are beyond the scope of this document, feel free to email at [suppot@ducor.net](mailto:__EMAIL__) Thank you so much!
 
-### Main Dependencies
+##### Main Dependencies
 - [React](https://reactjs.org)
 - [Tailwind CSS](https://tailwindcss.com)
 - [TypeScript](https://www.typescriptlang.org)
 
-## Prerequisites
+#### Prerequisites
 
 Before you begin, make sure your development environment includes the following:
 
-### 1 . [Node Js](https://nodejs.org)
-Node.js is a JavaScript runtime that allows you to run JavaScript code outside of a web browser. Since our project uses JavaScript, Node.js is required to build and run the application.
+#### 1 . Node.js 
+[Node Js](https://nodejs.org) is a JavaScript runtime that allows you to run JavaScript code outside of a web browser. Since our project uses JavaScript, Node.js is required to build and run the application.
 
 Install Node.js using downloaded file.
 
@@ -29,8 +29,8 @@ To check your node version, run node -v in a terminal/console window & Ensure th
 npm -v
   ```
 
-### 2 .[pnpm](https://pnpm.io)
-pnpm is a fast and efficient package manager for Node.js projects. It manages and installs libraries your project depends on. pnpm is more performant and disk space-saving compared to npm or yarn.
+### 2 . pnpm
+[pnpm](https://pnpm.io) is a fast and efficient package manager for Node.js projects. It manages and installs libraries your project depends on. pnpm is more performant and disk space-saving compared to npm or yarn.
 
 `pnpm` is a fast and disk space-efficient package manager for managing dependencies in JavaScript projects. It helps with installing, updating, configuring, and removing dependencies, allowing you to reach your goals more quickly and with fewer distractions.
 
@@ -72,7 +72,7 @@ Before running the project, you need to install a few essential tools:
  ```bash
     pnpm run dev
   ```
-### Add a New Package with `pnpm`
+#### Add a New Package with `pnpm`
 
 To add a new package to your project, use the following command:
 
@@ -81,7 +81,7 @@ pnpm add <package-name>
 
 ```
 
-## Customizer
+### Customizer
 
 Use the layout customizer to:
 
