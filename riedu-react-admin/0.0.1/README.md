@@ -102,7 +102,7 @@ Use the layout customizer to:
 
 These powerful tools help you design a fully personalized and professional interface in minutes.
 
-##### If you want to remove customizer from whole template, Just you need to remove ducor > src > provider > admin.tsx in  <Customizer /> component
+If you want to remove customizer from whole template, Just you need to remove ducor > src > provider > admin.tsx in  <Customizer /> component
 
 ###  Build for Production  
 
