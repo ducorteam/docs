@@ -92,6 +92,7 @@ Use the layout customizer to:
 - Change **sidebar position**: `fixed` or `static`
 
   
+![image](./dark-mode.png)
 ![image](./layout-customizer.png)
 
 - **Sidebar Colors**: Select sidebar color options to match your style
