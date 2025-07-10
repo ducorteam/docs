@@ -80,6 +80,9 @@ To add a new package to your project, use the following command:
 pnpm add <package-name>
 
 ```
+### layout
+- src > partials a layout structure 
+
 
 ### Customizer
 
