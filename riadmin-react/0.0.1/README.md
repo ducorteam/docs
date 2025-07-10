@@ -1,4 +1,4 @@
-# RiEduAdmin Admin Dashboard
+# RiAdmin Dashboard
 
 
 A modern admin dashboard template built with Vite, React, TypeScript.
@@ -49,7 +49,7 @@ For better understanding Vue we suggest you to once go through official document
 #### Basic
 
 1.  After unzip the download pack, you'll found a Template Folder with all the files.
-- **RiEduAdmin Template**: An installable React.js template zip file.
+- **RiAdmin Template**: An installable React.js template zip file.
 - **Documentation Folder**: Contains this documentation you are reading now.
 
 
@@ -59,7 +59,7 @@ Before running the project, you need to install a few essential tools:
 1.  Open your terminal or command prompt.
 2.  Navigate to the project folder.
    ```bash
-   cd riedu
+   cd riadmin
    ``` 
 3.  Run the following commands to set up the project:
 
